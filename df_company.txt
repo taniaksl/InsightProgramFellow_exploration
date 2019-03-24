@@ -1,0 +1,369 @@
+	Company	company_info
+0	Capital One	Capital One Financial Corporation is a bank holding company specializing in credit cards, auto loans, banking and savings accounts headquartered in Capital One Tower in McLean, Virginia.Capital One is ranked 10th on the list of largest banks in the United States by assets.
+1	Twitter	"Twitter () is an American online news and social networking service on which users post and interact with messages known as ""tweets""."
+2	Facebook	Facebook, Inc. is an American online social media and social networking service company.
+3	Adobe	Adobe Inc. ( ə-DOH-bee) is an American multinational computer software company headquartered in San Jose, California.
+4	LinkedIn	LinkedIn () is a business and employment-oriented service that operates via websites and mobile apps.
+5	Proofpoint	"Proofpoint is an enterprise security company based in Sunnyvale, California that provides software as a service and products for inbound email security, outbound data loss prevention, social media, mobile devices, digital risk, email encryption, electronic discovery (""eDiscovery”), and email archiving."
+6	Netflix	Netflix, Inc. is an American media-services provider headquartered in Los Gatos, California, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California.
+7	CreativeLIVE	CreativeLive is an online education platform that broadcasts live classes to an international audience.
+8	Microsoft Yammer	Yammer (/ˈjæm.ər/ ) is a freemium enterprise social networking service used for private communication within organizations.
+9	YouTube	YouTube is an American video-sharing website headquartered in San Bruno, California.
+10	PlotWatt	Watts is a neighborhood in southern Los Angeles, California.
+11	Level Up Analytics	Analytics is the discovery, interpretation, and communication of meaningful patterns in data; and the process of applying those patterns towards effective decision making.
+12	Reddit	Reddit (, stylized in its logo as reddit) is an American social news aggregation, web content rating, and discussion website.
+13	Uber	Uber is a transportation network company (TNC) headquartered in San Francisco, California.
+14	InVitae	Genomic Health is a company focusing on genetic research specifically in cancer detection, based out of Redwood City, California.
+15	Trace Genomics 	In biology and genealogy, the most recent common ancestor (MRCA, also last common ancestor (LCA), or concestor) of any set of organisms is the most recent individual from which all the organisms are directly descended.
+16	Telefonica 	Telefónica, S.A. (Spanish pronunciation: [teleˈfonika]) is a Spanish multinational telecommunications company headquartered in Madrid, Spain.
+17	Square	Square Co., Ltd. (株式会社スクウェア, Kabushiki-gaisha Sukuwea) was a Japanese video game company founded in September 1986 by Masafumi Miyamoto.
+18	LendUp	LendUp is a financial technology company that provides loans and credit cards, as well as financial education, access to credit reporting and gamification for responsible lending behavior.
+19	Vectra	The Opel Vectra is a large family car that was engineered and produced by the German automaker Opel.
+20	NerdWallet	NerdWallet is an American personal finance company, founded in 2009.
+21	Eventbrite	Eventbrite is a U.S.-based event management and ticketing website.
+22	BloomReach	Bloomreach Experience Manager - Developer Edition, formerly known as Hippo CMS is an open-source, dual licensed, Content Management System.
+23	Airbnb	A‌i‌r‌b‌n‌b‌,‌ ‌I‌n‌c‌.‌ is a privately held global company headquartered in San Francisco that operates an online marketplace and hospitality service which is accessible via its websites and mobile apps.
+24	Snapdeal	Snapdeal  is an Indian e-commerce company based in New Delhi, India.
+25	Aiirbnb	nan
+26	Zillabyte	nan
+27	6Sense	The Sixth Sense is a 1999 American supernatural horror film written and directed by M. Night Shyamalan.
+28	Walmart Labs	Walmart Labs (formerly named Kosmix and @WalmartLabs) is an American privately held company in Mountain View, California.
+29	Compass	nan
+30	23andMe	23andMe is a privately held personal genomics and biotechnology company based in Mountain View, California.
+31	Juvo	D. G. Yuengling & Son ( (listen) YING-ling) is the oldest operating brewing company in America, established in 1829.
+32	Domino Data Lab	HCL Technologies Limited (Hindustan Computers Limited) is an Indian multinational technology company, headquartered in Noida, Uttar Pradesh, India.
+33	Stitch Fix	Stitch Fix is an online personal styling service in the United States.
+34	Hipmunk	Steve Huffman (born November 12, 1983), also known by his Reddit username spez, is an American web developer and entrepreneur.
+35	Probayes	A probabilistic programming language (PPL) is a programming language designed to describe probabilistic models and then perform inference in those models.
+36	Insight Data Science	Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
+37	Kabbage	Kabbage, Inc. is an online financial technology company based in Atlanta, Georgia.
+38	Yelp	Yelp is a local-search service powered by crowd-sourced review forum run by an American multinational corporation headquartered in San Francisco, California.
+39	Glassdoor	Glassdoor is a website where current and former employees anonymously review companies and their management.In May 2018, Recruit Holdings, the Japanese company that also owns Indeed, announced their intention to acquire Glassdoor for US$1.2 billion.
+40	rocQ	Roc Nation, LLC is an American entertainment company founded by Jay-Z in 2008.
+41	Affirm, Inc.	Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.
+42	TaskRabbit	TaskRabbit is an online and mobile marketplace that matches freelance labor with local demand, allowing consumers to find immediate help with everyday tasks, including cleaning, moving, delivery and handyman work.
+43	Intuit	Intuit Inc. is a business and financial software company that develops and sells financial, accounting, and tax preparation software and related services for small businesses, accountants, and individuals.
+44	AT&T	AT&T Inc. is an American multinational conglomerate holding company headquartered at Whitacre Tower in Downtown Dallas, Texas.
+45	Grand Rounds	Grand Rounds is a healthcare company that connects patients with local and remote specialty care.
+46	Khan Academy	Salman “Sal” Khan (born October 11, 1976) is an American educator and entrepreneur who founded Khan Academy, a free online education platform and an organization with which he has produced over 6,500 video lessons teaching a wide spectrum of academic subjects, originally focusing on mathematics and sciences.
+47	Sojern	Sojern is a provider of a data-driven traveler marketing that utilizes programmatic buying and machine learning technology.
+48	Athos	Mount Athos (; Greek: Άθως, Áthos [ˈaθos]) is a mountain and peninsula in northeastern Greece and an important centre of Eastern Orthodox monasticism.
+49	Teralytics	nan
+50	SalesforceIQ	SalesforceIQ (formerly RelateIQ), a subsidiary of Salesforce.com, is an American software company based in Palo Alto, California.
+51	6Sense Insights	Demand sensing is a forecasting method that leverages new mathematical techniques and near real-time information to create an accurate forecast of demand, based on the current realities of the supply chain.
+52	Sling Media	Sling Media Inc. is a technology company that develops placeshifting and Smart TV solutions for consumers, multiple-system operators and set top box manufacturers.
+53	Enlitic	Jeremy Howard (born 13 November 1973) is an Australian data scientist and entrepreneur.
+54	Pebble	Pebble Beach is an unincorporated community on the Monterey Peninsula in Monterey County, California.
+55	Bosch	Robert Bosch GmbH (; German: [bɔʃ] (listen)), or Bosch, is a large multinational engineering and electronics company headquartered in Gerlingen, near Stuttgart, Germany.
+56	Target	Target Corporation is the eighth-largest retailer in the United States, and is a component of the S&P 500 Index.
+57	Prosper	Prosper Marketplace, Inc. is a San Francisco, California-based company in the peer-to-peer lending industry.
+58	Electronic Arts	Electronic Arts Inc. (EA) is an American video game company headquartered in Redwood City, California.
+59	Apple	Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.
+60	Cisco	Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley.
+61	Opendoor Labs	This is a list of unicorn startup companies.
+62	Counsyl	Myriad Genetics, Inc. is an American molecular diagnostic company based in Salt Lake City, Utah, United States.
+63	Microsoft	Microsoft uses a variety of fictional companies in the documentation and training material for its products.
+64	Rise Interactive	Rise Interactive is a Chicago-based digital marketing agency and Interactive Investment Management (IIM) firm which specializes in digital media and analytics for Fortune 1000 companies.
+65	AdRoll	Facebook Watch is a video-on-demand service operated by Facebook.
+66	Lumiata	Intel Capital is a division of Intel Corporation, set up to manage corporate venture capital, global investment, mergers and acquisitions.
+67	IBM	International Business Machines Corporation (IBM) is an American multinational information technology company headquartered in Armonk, New York, with operations in over 170 countries.
+68	Brilliant.org	Brilliant.org, also known as Brilliant, is a website and associated community that features problems and courses in mathematics, physics, quantitative finance, and computer science.
+69	Pilot AI Labs	Drive.ai is an American technology company headquartered in Mountain View, California that uses artificial intelligence to make self-driving systems for cars.
+70	RadiumOne	RadiumOne is a marketing company that provides online display, mobile, video, and social advertising services, aiming to target brand customers through programmatic marketing campaigns.
+71	Memorial Sloan Kettering	Memorial Sloan Kettering Cancer Center (MSK or MSKCC) is a cancer treatment and research institution in New York City, founded in 1884 as the New York Cancer Hospital.
+72	Encompass Capital	Encompass Insurance is a subsidiary of Allstate Corporation and is one of the largest personal property and casualty insurance brands sold exclusively through a network of more than 2,400 independent agents.
+73	Coach	Coach IP Holdings LLC (also known as Coach New York and simply Coach) is an American company specializing in luxury accessories such as handbags.
+74	Fast Forward Labs	Hilary Mason is an American data scientist and the founder of technology startup Fast Forward Labs as well as Data Scientist in Residence at Accel Partners.
+75	Credit Suisse	Credit Suisse Group AG is a Swiss multinational investment bank  and financial services company founded and based in Switzerland.
+76	Greenhouse	A greenhouse (also called a glasshouse, or, if with sufficient heating, a hothouse) is a structure with walls and roof made chiefly of transparent material, such as glass, in which plants requiring regulated climatic conditions are grown.
+77	Two Sigma	Two Sigma Investments LP is a New York City-based hedge fund that uses a variety of technological methods, including artificial intelligence, machine learning, and distributed computing, for its trading strategies.
+78	Zoom.ai	ZoomText is a screen magnifier for Microsoft Windows, developed by Ai Squared.
+79	BitSight	BitSight is a cybersecurity ratings company that analyzes companies, government agencies, and educational institutions.
+80	Goodyear	The Goodyear Tire & Rubber Company is an American multinational tire manufacturing company founded in 1898 by Frank Seiberling and based in Akron, Ohio.
+81	Viacom	Viacom Inc. ( VY-ə-kom or  VEE-ə-kom) is an American multinational mass media conglomerate company with interests primarily in film and television.
+82	Citadel	Citadel Broadcasting Corporation was a Las Vegas, Nevada-based broadcast holding company.
+83	ZocDoc	Zocdoc is an online medical care appointment booking service, providing free of charge medical care search facility for end users by integrating information about medical practices and doctors' individual schedules in a central location.
+84	Spotify	Spotify () is a Swedish audio streaming platform that provides DRM-protected music and podcasts from record labels and media companies.
+85	DigitalOcean	DigitalOcean, Inc. is an American cloud infrastructure provider headquartered in New York City with data centers worldwide.
+86	Memorial Sloan Kettering Cancer Center	Memorial Sloan Kettering Cancer Center (MSK or MSKCC) is a cancer treatment and research institution in New York City, founded in 1884 as the New York Cancer Hospital.
+87	TripAdvisor	TripAdvisor, Inc. is an American travel and restaurant website company that shows hotel and restaurant reviews, accommodation bookings and other travel-related content.
+88	NBC	The National Broadcasting Company (NBC) is an American English-language commercial terrestrial television network that is a flagship property of NBCUniversal, a subsidiary of Comcast.
+89	Regeneron Pharmaceuticals	Regeneron Pharmaceuticals, Inc. is a biotechnology company headquartered in Eastview, near Tarrytown, New York.
+90	Akamai	Akamai Technologies, Inc. is an American content delivery network (CDN) and cloud service provider headquartered in Cambridge, Massachusetts, in the United States.
+91	LA Dodgers	The Los Angeles Dodgers are an American professional baseball team based in Los Angeles, California.
+92	Macy's	Macy's (originally R. H. Macy & Co.) is an American department store chain founded in 1858 by Rowland Hussey Macy.
+93	Google	Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.
+94	H2 ventures	H2 Ventures is a fintech, data and artificial intelligence focused venture capital investment firm based in Sydney, Australia.
+95	Linkedin	LinkedIn () is a business and employment-oriented service that operates via websites and mobile apps.
+96	Stubhub	StubHub is an online ticket exchange company owned by eBay, which provides services for buyers and sellers of tickets for sports, concerts, theater and other live entertainment events.
+97	Motiv Inc	Takeda Pharmaceutical Company Ltd (武田薬品工業株式会社, Takeda Yakuhin Kōgyō Kabushiki-gaisha) is the largest pharmaceutical company in Asia and one of the top 20 largest pharmaceutical companies in the world by revenue.
+98	Sparked	nan
+99	Silicon Valley Data Science	Silicon Valley is an American comedy television series created by Mike Judge, John Altschuler and Dave Krinsky.
+100	Optimizely	Optimizely is an American company that makes customer experience optimization software for other companies.
+101	CreativeLive	CreativeLive is an online education platform that broadcasts live classes to an international audience.
+102	Kabam	Kabam (formerly Watercooler, Inc.) is an interactive entertainment company founded in 2006 and headquartered in Vancouver, BC.
+103	McKesson	McKesson Corporation is an American company distributing pharmaceuticals and providing health information technology, medical supplies, and care management tools.
+104	SambaTV	Samba TV (formerly Flingo) is a content recommendation engine and viewer tracking application designed for Smart TVs.
+105	Pacific Biosciences	Pacific Biosciences of California, Inc. is a biotechnology company founded in 2004 that develops and manufactures systems for gene sequencing and some novel real time biological observation.
+106	RASA Networks	Aruba Networks, formerly known as Aruba Wireless Networks, is a Santa Clara, California-based wireless networking subsidiary of Hewlett-Packard Enterprise.
+107	KQR LLC	KQRS-FM (92.5 FM, KQ92 or 92 KQRS) is a Classic Rock radio station in the Twin Cities region of Minnesota.
+108	People Prodigy	The Prodigy are an English electronic music band from Braintree, Essex, formed in 1990 by keyboardist and songwriter Liam Howlett.
+109	AltX	AltX is an alternative public equity exchange for small and medium-sized companies in South Africa operated in parallel with and wholly owned by the JSE Securities Exchange.
+110	Sentry Data Systems	"The Sentry (Robert ""Bob"" Reynolds) is a fictional superhero appearing in American comic books published by Marvel Comics."
+111	URX & Quid	nan
+112	Premise	Premise is a San Francisco, CA based data & analytics technology company.
+113	Fullpower Technologies	Fullpower is a privately held intellectual property and technology licensing company based in Santa Cruz, California.
+114	PayPal	PayPal Holdings, Inc. is an American company operating a worldwide online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders.
+115	Palantir	Palantir Technologies is a private American software company that specializes in big data analytics.
+116	23&Me	23andMe is a privately held personal genomics and biotechnology company based in Mountain View, California.
+117	Axon Vibe	"This is a list of Samsung's CMOS camera sensors, available for purchase by other companies, for a wide variety of products including mobile phones, computers, digital cameras and more.These sensors use one of the following technologies:
+
+FSI: frontside-illuminated."
+118	JP Morgan	J.P. Morgan & Co. is a commercial and investment banking institution founded by J. P. Morgan in 1871.
+119	OpenSlate	Little Baby Bum (also known as LBB and LittleBabyBum) is a YouTube channel that specialises in 3D animation videos of both traditional nursery rhymes and their own original children's songs.
+120	The New York Times	The New York Times Company is an American mass media company which publishes its namesake newspaper, The New York Times.
+121	Amazon	Amazon.com, Inc. (), is an American multinational technology company based in Seattle, Washington that focuses in e-commerce, cloud computing, and artificial intelligence.
+122	MTV	MTV (originally an initialism of Music Television) is an American pay television channel owned by Viacom Media Networks (a division of Viacom) and headquartered in New York City.
+123	Dia & Co	DIA (; Korean: 다이아; shortened from DIAMOND and backronym for Do It Amazing) is a South Korean girl group formed by MBK Entertainment.
+124	EDITED	EDITED (formerly EDITD) is a retail technology company headquartered in London, England, with offices in New York and San Francisco.
+125	Engima	The Enigma machines are a series of electro-mechanical rotor cipher machines, mainly developed and used in the early- to mid-20th century to protect commercial, diplomatic and military communication.
+126	CFPB	The Consumer Financial Protection Bureau (CFPB) is an agency of the United States government responsible for consumer protection in the financial sector.
+127	Bloomberg	Bloomberg L.P. is a privately held financial, software, data, and media company headquartered in Midtown Manhattan, New York City.
+128	Foursquare	Foursquare Labs Inc., commonly known as Foursquare, is a location technology company.
+129	Tapad	Tapad Inc. is a venture-funded startup company that develops and markets software and services for cross-device advertising and content delivery.
+130	Dstillery	Tom Phillips is an American businessman most closely associated with publishing ventures.
+131	Biogen Idec	Biogen Inc. (previously known as Biogen Idec) is an American multinational biotechnology company based in Cambridge, Massachusetts, specializing in the discovery, development, and delivery of therapies for the treatment of neurodegenerative, hematologic, and autoimmune diseases to patients worldwide.
+132	Tamr	Michael Ralph Stonebraker (born October 11, 1943) is a computer scientist specializing in database research.
+133	AthenaHealth	athenahealth, Inc. is a private American company that provides network-enabled services for healthcare and point-of-care mobile apps in the United States.
+134	Enigma	Enigma is an operational data management and intelligence company that specializes in data analytics and connected data.
+135	Splash	Splash Damage Ltd. is a British video game developer that specializes in multiplayer first-person shooter video games.
+136	Agentis	In linguistics, an agent noun (in Latin, nomen agentis) is a word that is derived from another word denoting an action, and that identifies an entity that does that action.
+137	BlackRock	BlackRock, Inc. is an American global investment management corporation based in New York City.
+138	Backflip Studios	Backflip Studios is a mobile game developer and publisher based in Boulder, Colorado, United States.
+139	In-Q-Tel	In-Q-Tel (IQT), formerly Peleus and known as In-Q-It, is an American not-for-profit venture capital firm based in Arlington, Virginia.
+140	Element Analytics	Predictive analytics encompasses a variety of statistical techniques from data mining, predictive modelling, and machine learning, that analyze current and historical facts to make predictions about future or otherwise unknown events.In business, predictive models exploit patterns found in historical and transactional data to identify risks and opportunities.
+141	Illumina	Illumina, Inc. is an American company incorporated in April 1998 that develops, manufactures and markets integrated systems for the analysis of genetic variation and biological function.
+142	Stealth Security	Stealth aircraft are designed to avoid detection using a variety of technologies that reduce reflection/emission of radar, infrared, visible light, radio frequency (RF) spectrum, and audio, collectively known as stealth technology.
+143	Wallet.AI	MobiKwik is an Indian company founded in 2009 that provides a mobile phone based payment system and digital wallet.
+144	Udacity	"Udacity, Inc. is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses (MOOCs).According to Thrun, the origin of the name Udacity comes from the company's desire to be ""audacious for you, the student""."
+145	App Annie	ContextLogic Inc., doing business as Wish, is an online e-commerce company.
+146	Farmer's Business Network	Sprouts Farmers Market, Inc., is an American supermarket chain headquartered in Phoenix, Arizona, USA.
+147	Oracle	Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California.
+148	Quottly	nan
+149	Move, Inc.	Move, Inc. is a real estate listing company based in Santa Clara, California.
+150	Schoold	The College Fair is a U.S. based college and career planning technology company founded as Schoold in 2015 and based in San Francisco, California.
+151	Valor Water Analytics	SYNLAB Group is an international medical diagnostics provider with laboratory services for human and veterinary medicine as well as environmental analysis .
+152	Gallup	Gallup, Inc. is an American analytics and advisory company based in Washington, D.C.
+153	ZestFinance	Douglas Clark Merrill (born 1970) is an American technologist and fintech entrepreneur.
+154	Schireson	nan
+155	Blue Apron	Blue Apron Inc. is an American ingredient-and-recipe meal kit service.
+156	SecurityScorecard	SecurityScorecard is an information security company that rates cybersecurity postures of corporate entities through the scored analysis of cyber threat intelligence signals for the purposes of third party management and IT risk management.
+157	McKinsey & Company	McKinsey & Company is an American worldwide management consulting firm.
+158	Simulmedia, Inc.	Wenda Harris Millard is a media executive currently serving as Vice Chairman at MediaLink.
+159	UNICEF	The United Nations International Children's Emergency Fund (UNICEF) was created by the United Nations General Assembly on 11 December 1946, to provide emergency food and healthcare to children and mothers in countries that had been devastated by World War II.
+160	Via	Via Transportation, Inc. is a transportation network company and real-time ridesharing company based in New York City, with offices in Tel Aviv, Chicago, Washington D.C., Arlington, Texas, and West Sacramento.
+161	Charles Schwab	The Charles Schwab Corporation is a bank and stockbroker based in San Francisco, California.
+162	Flatiron Health	Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California.
+163	Jet.com	Jet.com is an American e-commerce company headquartered in Hoboken, New Jersey.
+164	Local Logic	CoreLogic, Inc. (NYSE: CLGX) is an Irvine, CA-based corporation providing financial, property and consumer information, analytics and business intelligence.
+165	RedOwl Analytics	Forcepoint, previously known as Websense or Raytheon|Websense, is an Austin-based company owned by U.S. defense contractor Raytheon and private equity firm Vista Equity Partners.
+166	Hudson River Trading	Hudson River Trading LLC (HRT) is a multi-asset class quantitative trading firm, and more specifically a high-frequency trading (HFT) firm, based in New York City and founded in 2002.
+167	FINRA	In the United States, the Financial Industry Regulatory Authority, Inc. (FINRA) is a private corporation that acts as a self-regulatory organization (SRO).
+168	JPMorgan Chase	J.P. Morgan Chase & Co. is an American multinational investment bank and financial services company headquartered in New York City.
+169	Nauto	SoftBank Group Corp. (ソフトバンクグループ株式会社, Sofutobanku Gurūpu Kabushiki-gaisha) is a Japanese multinational holding conglomerate headquartered in Tokyo, Japan.
+170	Travelers	The Travelers Companies, Inc. is an American insurance company.
+171	Atlassian	Atlassian Corporation Plc () is an Australian enterprise software company that develops products for software developers, project managers, and content management.
+172	RichRelevance	RichRelevance is a company based in San Francisco, California, that offers personalized shopping experiences for large retail brands, including Macy's, Barneys New York, Office Depot and others.In addition to its San Francisco headquarters, the company also has offices in New York, Seattle, Paris, Munich, Tokyo, Malmö, Reading, and São Paulo.
+173	Shiftgig	Shiftgig connects hourly workers and businesses through a mobile application.
+174	Vantage Sports Inc	The Aston Martin Vantage  is a series of hand-built sports cars from the British automotive manufacturer Aston Martin.
+175	Aisera	nan
+176	A9.com	A9.com is a subsidiary of Amazon that develops search engine and search advertising technology.
+177	thredUP	thredUP is a fashion resale website for consumers to buy and sell secondhand clothing online.
+178	Yewno	Silvio Scaglia (born October 14, in Lucerne, Switzerland ) is an Italian telecoms entrepreneur, the founder of Fastweb S.p.A. and Babelgum.
+179	Rhumbix	nan
+180	Ayata	Hentai Kamen: Abnormal Crisis (HK 変態仮面　アブノーマル・クライシス) is a 2016 Japanese superhero action comedy film written and directed by Yūichi Fukuda, starring Ryohei Suzuki in the title role and based on the manga series Kyūkyoku!!
+181	Jawbone	Jawbone was an American privately held consumer technology and wearable products company headquartered in San Francisco, California.
+182	H20	Halloween H20: 20 Years Later is a 1998 American slasher film directed by Steve Miner, and starring Jamie Lee Curtis, Adam Arkin, Michelle Williams, and Josh Hartnett.
+183	BitSight Technologies	BitSight is a cybersecurity ratings company that analyzes companies, government agencies, and educational institutions.
+184	OnDeck	The Upper Deck Company, LLC (colloquially as Upper Deck and Upper Deck Authenticated, Ltd. in the UK), founded in 1988, is a private company primarily known for producing trading cards.
+185	EnergyHub	Hub Power Company Limited, colloquially known as Hubco, is a Pakistani independent power producing company based in Hub, Lasbela District, Balochistan, Pakistan.Its 1,292 MW plant is located 60 km from Karachi in Hub.
+186	Applecart	Tech companies in the New York City metropolitan area represent a significant and growing economic component of the New York metropolitan area, the most populous combined statistical area in the United States and one of the most populous urban agglomerations in the world.
+187	Komodo Health	Komodo National Park is a national park in Indonesia located within the Lesser Sunda Islands in the border region between the provinces of East Nusa Tenggara and West Nusa Tenggara.
+188	CubeSmart	CubeSmart (NYSE: CUBE), previously known as U-Store-It Trust, is an American provider of self-storage facilities and real estate investment trust (REIT).
+189	GNS Healthcare	GNS Healthcare is a privately held data analytics company based in Cambridge, Massachusetts with offices in Cambridge and Austin, Texas.
+190	Pymetrics	Artificial intelligence, defined as intelligence exhibited by machines, has many applications in today's society.
+191	Gartner	Gartner, officially known as Gartner, Inc. is a global research and advisory firm providing insights, advice, and tools for leaders in IT, Finance, HR, Customer Service and Support, Legal and Compliance, Marketing, Sales, and Supply Chain functions across the world.
+192	Schireson Associates	nan
+193	Bonsai AI	The Disastrous Life of Saiki K. is an anime television series produced by Egg Firm and J.C. Staff, based on the manga series created by Shūichi Asō and published in Shueisha's Weekly Shōnen Jump  magazine.
+194	Knowtions	TTEC (formerly TeleTech Holdings) is a business process outsourcing company headquartered in Englewood, Colorado, United States which was founded by Kenneth D. Tuchman in 1982.
+195	Tomorrow Networks	Tomorrow Never Dies is a 1997 spy film, the eighteenth entry in the James Bond series to be produced by Eon Productions, and the second to star Pierce Brosnan as the fictional MI6 agent James Bond.
+196	Dotdash	Dotdash (formerly About.com) is an American digital media company that publishes articles and videos about various subjects across categories including health, home, food, finance, tech, beauty, travel and education.
+197	Meetup	Meetup is a service used to organize online groups that host in-person events for people with similar interests.
+198	PlaceIQ	F5 Networks, Inc. is a global company that specializes in application services and application delivery networking (ADN).
+199	Booster	BoosterJuice Ltd. is Canada's largest chain of golden fresh juice and smoothie bars, owned and led by Dale Wishewan, President and CEO.
+200	NestlÃ© Waters North America	nan
+201	Pandora	Pandora A/S (often styled PANDORA) is an international Danish jewellery manufacturer and retailer founded in 1982 by Per Enevoldsen.
+202	Placed	The Waltham Watch Company, also known as the American Waltham Watch Co. and the American Watch Co., produced about 40 million watches, clocks, speedometers, compasses, time fuses, and other precision instruments between 1850 and 1957.
+203	GEICO	The Government Employees Insurance Company (GEICO ) is an American auto insurance company with headquarters in Chevy Chase, Maryland.
+204	Data Science, Inc.	Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
+205	The Hartford	The Hartford Financial Services Group, Inc., usually known as The Hartford, is a United States-based investment and insurance company.
+206	Expedia	Expedia.com is a travel booking website owned by Expedia Group.
+207	J.P. Morgan	J.P. Morgan & Co. is a commercial and investment banking institution founded by J. P. Morgan in 1871.
+208	SAP	"SAP SE (; Systeme, Anwendungen und Produkte in der Datenverarbeitung, ""Systems, Applications & Products in Data Processing"") is a German-based European multinational software corporation that makes enterprise software to manage business operations and customer relations."
+209	Marlette Funding	GoodRx is a website and mobile app that tracks prescription drug prices and offers drug coupons in the United States.
+210	ARM	Arm Holdings is a British multinational semiconductor and software design company, owned by SoftBank Group and its Vision Fund.
+211	Progressive Leasing	American Railcar Industries is an American manufacturer and maintainer of hopper and tanker railcars, headquartered in Saint Charles, Missouri.
+212	Mercedez-Benz R&D	Mercedes-Benz (German: [mɛʁˈtseːdəsˌbɛnts] or [-dɛs-]) is a German global automobile marque and a division of Daimler AG.
+213	Allstate	The Allstate Corporation is one of the largest insurance providers in the United States and one of the largest that is publicly held.
+214	Pinterest	Pinterest, Inc. is a social media web and mobile application company that operates a software system designed to discover information on the World Wide Web, mainly using images and, on a smaller scale, GIFs and videos.
+215	Adroll	OpenX is a programmatic advertising technology company.
+216	Doxmity	nan
+217	Trace Genomics	In biology and genealogy, the most recent common ancestor (MRCA, also last common ancestor (LCA), or concestor) of any set of organisms is the most recent individual from which all the organisms are directly descended.
+218	eBay	eBay Inc. ( EE-bay) is an American multinational e-commerce corporation based in San Jose, California that facilitates consumer-to-consumer and business-to-consumer sales through its website.
+219	Hello	Hello Sunshine is an American media company founded by American actress Reese Witherspoon and Strand Equity Founder & Managing Partner Seth Rodsky in 2016.
+220	Seven Bridges	Luten Bridge Company and variations such as Luten Engineering Company was the name of a number of different bridge building companies in the United States during the early- to mid-20th century.
+221	Intertek	Intertek Group plc is a multinational assurance, inspection, product testing and certification company headquartered in London, United Kingdom.
+222	Mercedes	Mercedes AMG High Performance Powertrains (previously known as Ilmor Engineering and Mercedes-Benz High Performance Engines) is a British Formula One engine manufacturer, owned by Mercedes-Benz.
+223	Swish	Swish is a mobile payment system in Sweden.
+224	Twitch	Twitch is a live streaming video platform owned by Twitch Interactive, a subsidiary of Amazon.
+225	Symantec	Symantec Corporation (; commonly known as Symantec) is an American software company headquartered in Mountain View, California, United States.
+226	Cainthus	nan
+227	Opendoor	Open Listings is an online real estate brokerage, focused exclusively on representing buyers.
+228	HPE	Hewlett Packard Enterprise Company (commonly referred to as HPE) is an American multinational enterprise information technology company based in Santa Clara, California , founded on 1 November 2015 as part of splitting of the Hewlett-Packard company.
+229	Markable	The East India Company (EIC), also known as the Honourable East India Company (HEIC) or the British East India Company and informally as John Company, Company Bahadur, or simply The Company, was an English and later British joint-stock company.
+230	xAd	X Development LLC.
+231	@Point of Care	Anthem, Inc. is an American health insurance company founded in the 1940s, prior to 2014 known as WellPoint, Inc.
+232	Booking.com	Booking.com is a travel fare aggregator website and travel metasearch engine for lodging reservations.
+233	Pieces Technologies	Renaissance Technologies LLC is an American hedge fund firm based in East Setauket, New York, on Long Island, which specializes in systematic trading using quantitative models derived from mathematical and statistical analyses.
+234	Vanguard	The Vanguard Group is an American registered investment advisor based in Malvern, Pennsylvania with over $5.3 trillion in assets under management.
+235	Parsec	Parsec is a desktop capturing application primarily used for cloud-based gaming through video streaming.
+236	O'Reilly Media	O'Reilly Media (formerly O'Reilly & Associates) is an American media company established by Tim O'Reilly that publishes books and Web sites and produces conferences on computer technology topics.
+237	MVP Health Care	nan
+238	Verizon	Verizon Media (previously named Oath Inc.) is a subsidiary of Verizon Communications that serves as the umbrella company of its digital platforms.
+239	Arnhold Institute (Mount Sinai)	Indians in the New York City metropolitan region constitute one of the largest and fastest growing ethnicities in the New York City metropolitan area of the United States.
+240	Agero	Jenna Sanz-Agero (née Piccolo) is the former lead singer of the female rock group Vixen, and a former president of Media 8.
+241	Morsum	The Chinese telegraph code, Chinese telegraphic code, or Chinese commercial code (simplified Chinese: 中文电码; traditional Chinese: 中文電碼; pinyin: Zhōngwén diànmǎ or simplified Chinese: 中文电报码; traditional Chinese: 中文電報碼; pinyin: Zhōngwén diànbàomǎ) is a four-digit decimal code (character encoding) for electrically telegraphing messages written with Chinese characters.
+242	Goldman Sachs	The Goldman Sachs Group, Inc., is an American multinational investment bank and financial services company headquartered in New York City.
+243	DataKind	"This is an alphabetical list of notable IT companies using the marketing term big data:
+
+Alpine Data Labs, an analytics interface working with Apache Hadoop and big data
+Azure Data Lake is a highly scalable data storage and analytics service."
+244	AbleTo	nan
+245	NBCUniversal	NBCUniversal Media, LLC is an American worldwide mass media conglomerate owned by Comcast and headquartered at Rockefeller Plaza's Comcast Building in Midtown Manhattan, New York City.
+246	Playdots	The Satellite Award for Outstanding Mobile Game is an annual award given by the International Press Academy as one of its Satellite Awards.
+247	New York Presbyterian	The NewYork–Presbyterian Hospital is a 501(c)(3) nonprofit university hospital in New York City affiliated with two Ivy League medical schools: Columbia University Vagelos College of Physicians and Surgeons and Weill Cornell Medical College.
+248	BBC	The British Broadcasting Corporation (BBC) is a British public service broadcaster.
+249	McKinsey & Co.	McKinsey & Company is an American worldwide management consulting firm.
+250	NYC Parks and Recreation	Sir Benjamin Wyatt, KBE, is a character portrayed by Adam Scott in the TV series Parks and Recreation.
+251	The Goodyear Tire & Rubber Company	The Goodyear Tire & Rubber Company is an American multinational tire manufacturing company founded in 1898 by Frank Seiberling and based in Akron, Ohio.
+252	Cotiviti	nan
+253	Pearson	Pearson plc is a British multinational publishing and education company headquartered in London.
+254	Rubicon Project	Rubicon Project is an American online advertising technology firm based in Los Angeles, California.
+255	Shopify	Shopify is a Canadian e-commerce company headquartered in Ottawa, Ontario.
+256	USAA	The United Services Automobile Association (USAA) is a San Antonio, Texas-based Fortune 500 diversified financial services  group of companies including a Texas Department of Insurance-regulated reciprocal inter-insurance exchange and subsidiaries offering banking, investing, and insurance to people and families who serve, or served, in the United States military.
+257	Ezoic	nan
+258	Caesars Entertainment Corporation	Caesars Entertainment Corporation is an American gaming corporation based in Paradise, Nevada that owns and operates over 50 casinos and hotels, and seven golf courses under several brands.
+259	SSAI	Nimble Streamer is a freeware media server developed by WMSPanel company currently known as Softvelum, LLC.
+260	Emprata	In the United States, net neutrality, the principle that Internet service providers (ISPs) treat all data on the Internet the same, and not discriminate, has been an issue of contention between network users and access providers since the 1990s.
+261	Cascade Data Labs	Nokia Bell Labs (formerly named AT&T Bell Laboratories and Bell Telephone Laboratories) is an industrial research and scientific development company owned by Finnish company Nokia.
+262	Community Center for Education Results	Community Education Centers abbreviated CEC was a private for-profit prison company based in West Caldwell, New Jersey and active in seventeen American states and in Bermuda.In June, 2007 CEC acquired another operator of private prisons,  CiviGenics.In 2011, New Jersey and its counties spent about $105 million on halfway houses.
+263	Akili Interactive Labs, Inc.	Adam Gazzaley (born December 29, 1968) is an American neuroscientist, author, photographer, entrepreneur and inventor.
+264	Remind	Remind (previously Remind101) is a private mobile messaging platform that enables teachers, parents, students, and administrators in K–12 schools to communicate with everyone at once.
+265	HP	The Hewlett-Packard Company (commonly referred to as HP, and stylized as hp) or Hewlett-Packard ( HEW-lit PAK-ərd) was an American multinational information technology company headquartered in Palo Alto, California.
+266	Zenysis	nan
+267	The Honest Company	The Honest Company is an American consumer goods company, founded by actress Jessica Alba, that emphasizes household products to supply the marketplace for ethical consumerism.
+268	State Farm	State Farm is a large group of insurance and financial services companies throughout the United States with corporate headquarters in Bloomington, Illinois.
+269	Remote Sensing Scientist	Remote sensing is the acquisition of information about an object or phenomenon without making physical contact with the object and thus in contrast to on-site observation, especially the Earth.
+270	Chegg	Chegg, Inc. is an American education technology company based in Santa Clara, California, that offers online textbook rentals (both in physical and digital formats), as well as homework help, online tutoring, scholarships and internship matching.
+271	San Diego Zoo	The San Diego Zoo is a zoo in Balboa Park, San Diego, California, housing over more than 3,500 animals of more than 650 species and subspecies.
+272	Ancestry	Ancestry.com LLC is a privately held online company based in Lehi, Utah.
+273	Winton Group	Winton Group, Ltd (which includes Winton Capital Management) is a British investment management firm founded by David Harding.
+274	Health Catalyst	Elysium Health is a company founded in 2014 by biologist Leonard Guarente, Dan Alminana, and Eric Marcotulli to market dietary supplements.
+275	commerce.AI	[24]7.ai (full company name [24]7.ai, Inc.) is a customer experience software and services company that uses artificial intelligence and machine learning to understand consumer intent.
+276	Omniscience	Predestination, in theology, is the doctrine that all events have been willed by God, usually with reference to the eventual fate of the individual soul.
+277	Alpha-I	In probability theory and statistics, the beta distribution is a family of continuous probability distributions defined on the interval [0, 1] parametrized by two positive shape parameters, denoted by α and β, that appear as exponents of the random variable and control the shape of the distribution.
+278	Exelon	Exelon Corporation is an American Fortune 100 energy company headquartered in Chicago, Illinois.
+279	Seatgeek	SeatGeek (est.
+280	Cooper Health	The Cooper Companies, Inc. is an American company in the medical specialities sector.
+281	Janssen Pharmaceutical	Janssen Pharmaceutica is a pharmaceutical company headquartered in Beerse, Belgium.
+282	Dataiku	Dataiku is a computer software company headquartered in New York City.
+283	Nielsen	Nielsen Holdings Inc. (formerly known as Nielsen N.V.) is an American information, data and measurement company with headquarters in New York City, USA.
+284	Fareportal	This is a list of top earning travel companies.
+285	Dia&Co	DIA (; Korean: 다이아; shortened from DIAMOND and backronym for Do It Amazing) is a South Korean girl group formed by MBK Entertainment.
+286	Intuitive Surgical	Intuitive Surgical Inc. is an American corporation that develops, manufactures and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the da Vinci Surgical System.
+287	Guggenhiem Partners	An independent advisory firm (sometimes less accurately called an advisory boutique) is an investment bank that provides strategic and financial advice to clients primarily including corporations, financial sponsors, and governments.
+288	Otto/Uber	Uber is a transportation network company (TNC) headquartered in San Francisco, California.
+289	The Broad Institute	nan
+290	Calabrio, Inc.	nan
+291	3M	The 3M Company, formerly known as the Minnesota Mining and Manufacturing Company, is an American multinational conglomerate corporation operating in the fields of industry, worker safety, health care, and consumer goods.
+292	Vroom	Vroom is a New York City-based e-commerce company that enables consumers to buy, sell and finance cars online.
+293	Joany	A Christmas card is a greeting card sent as part of the traditional celebration of Christmas in order to convey between people a range of sentiments related to  Christmastide and the holiday season.
+294	Intel Corporation	Intel Corporation (commonly known as Intel and stylized as intel) is an American multinational corporation and technology company headquartered in Santa Clara, California, in the Silicon Valley.
+295	Zymergen, Inc	nan
+296	Lululemon	Lululemon athletica inc. (), styled as lululemon athletica, is a Canadian athletic apparel retailer.
+297	Arena	Arena Racing Company, also called ARC Racing and Leisure Group is a UK private company, created in 2012 by the merger of Arena Leisure and Northern Racing.
+298	automotiveMastermind	IHS Markit Ltd is a London-based global information provider  that was formed in 2016 when IHS Inc. and Markit Ltd. merged.
+299	Globality	Global (also known as Global Media & Entertainment) is a British media company formed in 2007.
+300	Rockets of Awesome	Frisky Dingo was an American adult  animated cartoon series created by Adam Reed and Matt Thompson for Adult Swim.
+301	Salesforce	Salesforce.com, Inc. (styled in its logo as salesƒorce; abbreviated usually as SF or SFDC) is an American cloud-based software company headquartered in San Francisco, California.
+302	Strat11	Strat-O-Matic is a game company based in Glen Head, New York, that develops and publishes sports simulation games.
+303	Precise MD	The McDonnell Douglas MD-80 is a series of twin-engine, short- to medium-range, single-aisle commercial jetliners.
+304	Murmuration	Murmur is a hybrid studio/technology company that creates and distributes social films.
+305	Chatdesk	Voice computing is the discipline that develops hardware or software to process voice inputs.It spans many other fields including human-computer interaction, conversational computing, linguistics, natural language processing, automatic speech recognition, speech synthesis, audio engineering, digital signal processing, cloud computing, data science, ethics, law, and information security.
+306	Wayfair	Wayfair Inc. is an American e-commerce company that sells home goods.
+307	Statespace	nan
+308	ThriveHive	GateHouse Media Inc. (formerly Liberty Group Publishing), a holding company for New Media Investment Group (NYSE: NEWM), former symbol on OTC Markets Group's OTCQB tier GHSE, is one of the largest publishers of locally based print and digital media in the United States, headquartered in the town of Perinton, New York.
+309	Broker Genius	Steve Madden (born 1958) is an American fashion designer and businessman.
+310	BARDA	The Deltora Quest series is the collective title for three distinct series of children's fantasy books, written by Australian author Emily Rodda.
+311	BigR.io	PTC Inc. is a computer software and services company founded in 1985 and headquartered in Boston, Massachusetts.
+312	Applied Research in Acoustics	Applied Acoustics (French: Acoustique Appliquée, German: Angewandte Akustik) is a bimonthly peer-reviewed scientific journal.
+313	Descartes Labs	René Descartes (US: , UK: , French: [ʁəne dekaʁt]; Latinized: Renatus Cartesius; adjectival form: Cartesian; 31 March 1596 – 11 February 1650) was a French philosopher, mathematician, and scientist.
+314	Quora	Quora () is a question-and-answer website where questions are asked, answered, edited, and organized by its community of users in the form of opinions.
+315	UnifyID	Unified Diagnostic Services (UDS) is a diagnostic communication protocol in the electronic control unit (ECU) environment within the automotive electronics, which is specified in the ISO 14229-1.
+316	GoPro	GoPro, Inc. (marketed as GoPro and sometimes stylised as GoPRO) is an American technology company founded in 2002 by Nick Woodman.
+317	Tesla	Tesla, Inc. (formerly Tesla Motors, Inc.) is an American automotive and energy company based in Palo Alto, California.
+318	Activision	Activision Publishing, Inc. is an American video game publisher based in Santa Monica.
+319	Albeado	Brillio is a company focused on digital technologies and big data analytics headquartered in Santa Clara, California Brillio has over 2,300 employees who work in offices located in the United States, Norway, United Kingdom and India.
+320	Sonos, Inc.	Sonos is an American consumer electronics company founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai, based in Santa Barbara, California.
+321	Helpshift	Bin Weevils is a children's massively multiplayer online game; it is developed and published by 55pixels.
+322	Livongo	Glen E. Tullman is the Founder and Executive Chairman of Livongo Health, a consumer digital health company.
+323	Samba TV	Samba TV (formerly Flingo) is a content recommendation engine and viewer tracking application designed for Smart TVs.
+324	Second Measure	Alcoholic spirits measures are instruments designed to measure exact amounts or shots of alcoholic spirits.
+325	Grammarly	General Catalyst is an American venture capital firm focused on early stage and growth investments.
+326	eBay Advertising	Tiffany (NJ) Inc. v. eBay Inc. 600 F.3d 93 (2nd Cir.
+327		nan
+328	eBay 	eBay Inc. ( EE-bay) is an American multinational e-commerce corporation based in San Jose, California that facilitates consumer-to-consumer and business-to-consumer sales through its website.
+329	CA Technologies	CA Technologies, formerly known as Computer Associates International, Inc. and CA, Inc., is a multinational corporation headquartered in New York City.
+330	Showtime	Showtime is an American premium cable and satellite television network that serves as the flagship service of the Showtime Networks subsidiary of CBS Corporation, which also owns sister services The Movie Channel and Flix.
+331	Playtika	Caesars Entertainment Corporation is an American gaming corporation based in Paradise, Nevada that owns and operates over 50 casinos and hotels, and seven golf courses under several brands.
+332	Oscar	The Oscar Mayer Company is an American meat and cold cut production company, owned by the American food company Kraft Heinz.
+333	Harmony Institute	Tina Ambani (née Munim) is a former Bollywood actress and chairperson of the Mumbai-based Kokilaben Dhirubhai Ambani Hospital, Harmony for Silvers Foundation and Harmony Art Foundation.
+334	KPMG	KPMG is a professional service company and one of the Big Four auditors, along with Deloitte, Ernst & Young (EY), and PricewaterhouseCoopers (PwC).
+335	Simulmedia	Wenda Harris Millard is a media executive currently serving as Vice Chairman at MediaLink.
+336	AlixPartners	AlixPartners sometimes referred to as Alix Partners is a consulting firm best known for its work in the turnaround space.
+337	Beyond Limits	Beyond Limits is an American artificial intelligence company known for transforming space and defense technologies from NASA and the U.S. Department of Defense into industrial use technology.
+338	Handshake	A golden handshake is a clause in an executive employment contract that provides the executive with a significant severance package in the case that the executive loses their job through firing, restructuring, or even scheduled retirement.
+339	Cape Analytics	Workday, Inc. is an on‑demand (cloud-based) financial management and human capital management software vendor.
+340	Snapdocs	Snapdocs, Inc. is an American mortgage technology company headquartered in San Francisco, California.
+341	Geico	The Government Employees Insurance Company (GEICO ) is an American auto insurance company with headquarters in Chevy Chase, Maryland.
+342	Social Capital	Social capital broadly refers to those factors of effectively functioning social groups that include such things as interpersonal relationships, a shared sense of identity, a shared understanding, shared norms, shared values, trust, cooperation, and reciprocity.
+343	Github	GitHub is a web-based hosting service for version control using Git.
+344	Amgen	Amgen Inc. (formerly Applied Molecular Genetics Inc.) is an American multinational biopharmaceutical company headquartered in Thousand Oaks, California.
+345	Robinhood	Robinhood Markets Inc., or simply Robinhood, is a U.S.-based financial services company headquartered in Menlo Park, California.
+346	Acorns	The acorn, or oaknut, is the nut of the oaks and their close relatives (genera Quercus and Lithocarpus, in the family Fagaceae).
+347	Thasos Group	Thasos or Thassos (Greek: Θάσος, Thásos) is a Greek island, geographically part of the North Aegean Sea, but administratively part of the Kavala regional unit.
+348	Headspin	Beat Freaks is an all-female breaking dance crew from Los Angeles, California.
+349	Houzz	Houzz is a website and online community about architecture, interior design and decorating, landscape design and home improvement.
+350	IFTTT	If This Then That, also known as IFTTT (), is a free web-based service to create chains of simple conditional statements, called applets.
+351	Proteus	"In Greek mythology, Proteus (; Ancient Greek: Πρωτεύς) is an early prophetic sea-god or god of rivers and oceanic bodies of water, one of several deities whom Homer calls the ""Old Man of the Sea"" (halios gerôn)."
+352	C3 IoT	"The Internet of things (IoT) refers to the concept of extending Internet connectivity beyond conventional computing platforms such as personal computers and mobile devices, and into any range of traditionally ""dumb"" or non-internet-enabled physical devices and everyday objects."
+353	LiveRamp	LiveRamp Holdings, Inc. (commonly LiveRamp), formerly known as Acxiom Corporation, is a San Francisco, California-based SaaS company that offers an identity resolution platform.
+354	Accenture	Accenture is a global management consulting and professional services firm that provides strategy, consulting, digital, technology and operations services.
+355	Tenor	Tenor is a male voice type in classical music whose vocal range lies between the countertenor and baritone.
+356	TuneIn	TuneIn Inc. is an American audio streaming service delivering live news, radio, sports, music, and podcasts to over 60 million monthly active users.
+357	JW Player	JW Player is a New York based company which has developed a video player software of the same name.
+358	Neo Ivy Capital Management	Josiah Wedgwood and Sons, commonly known as Wedgwood, was a fine china, porcelain, and luxury accessories company founded on 1 May 1759 by English potter and entrepreneur Josiah Wedgwood.
+359	Columbia University	Columbia University (Columbia; officially Columbia University in the City of New York) is a private Ivy League research university in Upper Manhattan, New York City.
+360	Unacast	nan
+361	Teza Technologies	Mikhail “Misha” Malyshev is founder and CEO of Teza Group, a science and technology driven global quantitative trading firm based in Chicago, Illinois.
+362	McKinsey	McKinsey & Company is an American worldwide management consulting firm.

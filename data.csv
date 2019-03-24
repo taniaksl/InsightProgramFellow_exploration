@@ -1,0 +1,703 @@
+,Name,Project,Background,Company,Title
+0,JP Bida,Measuring the Impact of Open Source Coders on Github,"Bio-X Games, Stanford, Postdoc",Capital One,Director of Risk
+1,Douglas Mason,Email Searcher: Search & Visualize Your Mailbox,"Physics, Harvard University,Â PhD
+",Twitter,Data Scientist
+2,Virot Ta Chiraphadhanakul,Tweet Timeline: Visualizing the Impact of Social Media,"Operations Research, MIT, PhD",Facebook,Data Scientist
+3,Julia Viladomat,Sentiment Analysis Based on Social Media,"Statistics, Stanford, Postdoc",Adobe,Data Scientist
+4,David Freeman,Flight Delay Predictor,"Mathematics, Stanford, Postdoc",LinkedIn,Head of Anti-Abuse Engineering
+5,Jessica ZÃºÃ±iga,Email Contacts Automatically Grouped & Ranked,"Mathematics, Duke, Postdoc",LinkedIn,Senior Data Scientist
+6,Harold Nguyen,Analysis of New York Stop-and-Frisk Data,"Physics, UC Riverside, PhD",Proofpoint,Data Scientist
+7,Sebastien de Larquier ,CouchTube: YouTube TV shows in one click,"Space Physics, Virgina Tech, PhD",Netflix,Data Scientist
+8,Paula Therese Lang,SchoolGeo: Empowering Parents to Make Informed Decisions,"Computational Biology, UC Berkeley, Postdoc",CreativeLIVE,Senior Data Scientist
+9,Nan Ma,Event Map: Get Local News from Twitter,"Electrical Engineering & Computer Science, UC Berkeley, Postdoc",Microsoft Yammer,Data Engineer
+10,Cinna Julie Wu,Sort My Friends: Automatically Organize your Connections,"Applied Mathematics, UC Berkeley, PhD",Facebook,Data Scientist
+11,Erin Summers,Flat Finder: Find Your Perfect Apartment,"Electrical Engineering & Computer Science, UC Berkeley, PhD",Facebook,Software Engineer
+12,Leah McGuire,Kiva Loan Checker,"Computational Neuroscience, UC Berkeley, Postdoc",LinkedIn,Senior Data Scientist
+13,Nick Bunch,Arrive in Time: Airport Arrival Time Predictor,"Space Plasma Physics, Stanford, Postdoc",YouTube,Quantitative Analyst
+14,Shelby Sturgis,STARtrack: Helping Educators Track Student Performance,"Biology, Stanford, PhD",Netflix,Senior Data Visualization Engineer
+15,Onkar Dalal,Diverse Recipe Recommendations,"Computational & Mathematical Engineering, Stanford, PhD",LinkedIn,Data Scientist
+16,Aastha Jain,Multi-Domain Recommendations,"Computer Vision & Image Processing, Johns Hopkins University, Postdoc",LinkedIn,Data Scientist
+17,Yan Yang,Stock Volatility PredictorÂ ,"Computational & Mathematical Engineering, Stanford, PhD",Microsoft Yammer,Data Engineer
+18,Puneeth Kalavase,Lower Your Electricity Bill,"Environmental Energy, UC Berkeley, Postdoc",PlotWatt,Algorithm Developer
+19,Efraim Feinstein,Find the Expert on Stack Overflow,"Computational Biophysics, Harvard University, Postdoc",Level Up Analytics,Data Scientist
+20,Joe Gallagher,RewindX: Rediscover Music From Your Youth,"Computational Neuroscience, Stanford, Postdoc",Reddit,Data Lead
+21,Justin Parella,HipHopper: Find The Musicians You Have Been Missing,"Atmospheric Chemistry, Harvard, PhD",Facebook,Data Scientist
+22,Andre Bach,RouteAroundCrime: The Path Less MuggedÂ ,"Experimental Particle Physics, UC Berkeley, PhD",Uber,Data Scientist
+23,Keoki Seu,FlockThink: Twitter Search Engine For Instant Sentiment AnalysisÂ ,"Condensed Matter Physics,Â Lawrence Berkeley National Laboratory, Postdoc",Facebook,Data Engineer
+24,Prakhar Mehirotra,"News Now: Scrapes the RSS feeds from popular news websites (CNN, FOX, etc.) in real time","Aeronautics, California Institute of Technology, PhD",Uber,Quantitative Analytics Finance Lead
+25,Vincent Fusaro,RxDiscovery: Mining the FDA's adverse event database to identify common side-effects for drug-drug interactions,"Clinical Translational Informatics, Harvard Medical School, Postdoc",InVitae,Senior Software Engineer Technical Lead
+26,Diane Wu,BakeSearch: Stop Searching & Start Baking,"Genetics, Stanford, PhD",Trace Genomics ,Founder
+27,Giovanna Miritello,ReadTweetApp: The Tweets That Matter,"Mathematical Engineering,Â University Carlos III of Madrid, PhD",Telefonica ,Data Scientist
+28,Dominique Van de Sompel,TwinkedIn: Follow LinkedIn Contacts on TwitterÂ ,"Molecular Imaging, Stanford, Postdoc",Facebook,Data Scientist
+29,Colin Dillard,CrimeVis: Visualization of Oakland Crime Rates,"Physics, Harvard University, PhD",Level Up Analytics,Data Scientist 
+30,Brian Boates,SkillRankApp: What You Need to Know For Your Dream Job,"Physics, Dalhousie University, PhD",Square,Data Science Lead
+31,Adrian Kuhn,SerendipityEngineApp: Your Personal Travel Assistant,"Computer Science, University of British Columbia, Postdoc",Facebook,Data Engineer
+32,George Lewis,Barkov Chain: Bar & Restaurant Recommendation Engine,"Experimental Particle Physics, New York University, PhD",LendUp,Head of Risk & Analytics
+33,Berian James,"Predicting Startup Outcomes on Crunchbase. Silicon Valley, Summer 2012","Astrophysics, UC Berkeley,Â Postdoc",Square,Data Scientist
+34,David Lopes Pegna,MyFacebookDigest: What You Have Missed on Facebook?Â ,"Particle Physics, Princeton, Postdoc",Vectra,Director of Data Science
+35,Christina Whittle,Neighbor Flavor,"Genomics, UC Berkeley, Postdoc",NerdWallet,"Staff, Business Analytics"
+36,Megan Cartwright,Stay Connected: The People You Remember Not to Forget,"Space Plasma Physics, UC Berkeley, Postdoc",Eventbrite,Manager of Marketing Analytics & Data Science
+37,Warren Mar,"FlixPixie: ""Automagically"" Sort Photos","Electrical Engineering, Stanford, PhD",BloomReach,Data Scientist
+38,Eric Zilli,Sandwichly: Make The Perfect Sandwich,"Neuroscience, Boston University, Postdoc",Facebook,Software Engineer
+39,Lisa Qian,Yelp Personal: Personalized Yelp recommendations,"Applied Physics, Stanford, PhD",Airbnb,Data Science Manager
+40,Krystal St. Julien,GeoJobr: Finding a job in today's economy,"Biomedical Genetics, Biochemistry, and Organogenesis, Stanford, PhD",Facebook,Operations Analyst
+41,Daniel Silverstein,Dine-amic Food: Making food decisions easy using dynamic data,"High Energy Physics, Stanford, PhD",Microsoft Yammer,Data Scientist
+42,Matthew Folz,"GameChooser: Intelligent viewing recommendations for NBA games,Â The University of British Columbia, PhD","Probability Theory and Stochastic Processes,Â ",Facebook,Data Scientist
+43,Praveen Kundurthy,Flop Buster: The box-office prediction app,"Astronomy,Â University of Washington, PhD",Microsoft Yammer,Data Scientist
+44,Lauren Porter,Off the Beaten Path: Your personalized vacation planner,"Theoretical and Computational Astrophysics, UC Santa Cruz, PhD",Snapdeal,Senior Data Scientist
+45,Aaron Keys,Gener-Rec: Greed is not good (at least for recommendation engines),"Chemical Engineering, UC Berkeley, Postdoc",Aiirbnb,Data Architect
+46,Kevin Schaeffer,NewsTweet: Discover what's happening right now anywhere in the world,"Theoretical High Energy Physics, UC Berkeley, PhD",Facebook,Technical Lead
+47,Shih-Ho Cheng,Less-Sketchy: An early fraud detection web-app for apartment classifieds,"Computational Astro-particle Physics,Â The Pennsylvania State University, PhD",Airbnb,Data Scientist
+48,Xiaoying Xu,Job Link: Find and Connect with Potential New Careers,"Astrophysics/Cosmology,Â Carnegie Mellon University, Postdoc",Zillabyte,Data Scientist
+49,Nicholas Tomko,"Reddibility: Just the Q's & A's, none of the BS","Artificial Intelligence - Evolutionary Computation,Â University of Sussex, PhD",Facebook,Data Scientist
+50,Mio Alter,Flava: Find your Flava,"Mathematics (Geometry/Topology), University of Texas at Austin, PhD",6Sense,Data Scientist
+51,Wei Zhang,Startup Sniffer: Transform gut-driven to data-driven investmentÂ ,"Computer Science and Engineering, University of Notre Dame, PhD",Walmart Labs,Data Scientist/Software Engineer
+52,Jingjing Huang,NuTube: Classifying recent YouTube videosÂ ,"Mathematics/Electrical Engineering, California Institute of Technology, PhD",LinkedIn,"Sr. Associate, Business Analytics"
+53,Joshua Lande,"ReviewSkimmer: Find what's good or bad in a movie, before it's too late!","Astrophysics, Stanford, PhD",Twitter,Senior Data Scientist
+54,Eli Bressert,InspectorGit: Discover Github's awesome repositories,"Astrophysics, University of Exeter, Postdoc",Netflix,Data Scientist 
+55,Jenelle Bray,PlacePickr: Helping couples decide where to liveÂ ,Computational Structural Biology <br> Stanford University <br> Postdoct,LinkedIn,"Manager, Security Data Science"
+56,Shanshan Ding,Who's On First: Predicting the outcomes of baseball's batter-pitcher matchups,"Mathematics, University of Pennsylvania, PhD",Compass,Data Scientist 
+57,Elizabeth Leicht,DinnerDetente: Easing the strained relationship between healthy and delicious,"Statistical Physics/Complex Systems, University of Oxford, Postdoc",Facebook,"Data Engineer, Analytics"
+58,Chris Said,DealSpotter: Find rare deals on Craigslist... the easy way,"Neuroscience, Princeton, PhD",Twitter,Data Scientist
+59,Steven Herrin,ParkSafely: Bicycling in San Francisco? Park where theft is less likely,"Experimental Neutrino Physics, Stanford, PhD",23andMe,Software Engineer
+60,Aristotle Socrates,Tweather: Current local weather tweets,"Theoretical Astrophysics, Institute for Advanced Study, Princeton, Postdoc",Juvo,Senior Data Scientist
+61,Alexander Tronchin-James,BeerInsight: Recommending exploration of obscure craft beer,"Engineering-Physics, UC San Diego, PhD",Facebook,Data Engineer
+62,Slater Stich,TopOfTheStack: Find Stack Overflow questions to answerÂ ,"Mathematics, UC Berkeley, PhD",Square,Data Scientist
+63,John Joo,HypeControl: Identify bias in the news you readÂ ,"Applied Physics, Harvard, PhD",Domino Data Lab,Data Scientist Evangelist
+64,Kevin Wheeler,PredictMyLineup: A fantasy football lineup optimization engine,"Materials Science/Engineering (Protein biophysics), Stanford, PhD",Facebook,Data Engineer
+65,John McDonnell,HotHoods: Forecasting neighborhood trends in housing prices,"Cognitive Science, New York University, PhD",Stitch Fix,Data Scientist
+66,Cristian Figueroa,BargainMeal: Great deals on top rated dishesÂ ,"Operations Research, MIT, PhD",Facebook,Data Engineer
+67,Michael Kuhlen,Delay Me Not! Providing flight day predictions at ticket purchase time,"Astronomy & Astrophysics, UC Santa Cruz, PhD",LendUp,Data Scientist
+68,Shu Liu,HummingBirds: Getting the latest news about trends on TwitterÂ ,"Computer Science, University of Notre Dame, PhD",Microsoft Yammer,Data Engineer II
+69,Christopher Miller,AmazonComparer: Short & sweet product reviews,"Physics, UC David, PhD",Hipmunk,Data Scientist 
+70,Christopher Moody,ThisPlusThat: Amazing conceptual searching with natural languageÂ ,"Physics, UC Santa Cruz, PhD",Stitch Fix,Data Scientist
+71,Anna Szostek,PopularNow: Get great content from Twitter NOW!,"Astrophysics, Stanford, Postdoc",Probayes,Data Scientist / R&D Engineer
+72,Matt Smith,DailyFaces: The people in today's news.,"Computational Protein Engineering, California Institute of Technology, PhD",Insight Data Science,Director of Product
+73,Ahmet Bakan,EURoute.me: Make the most out of your Europe trip!Â ,"Computational Biology, University of Pittsburgh, Postdoc",Kabbage,Data Scientist
+74,Chris Farrell,OldFaveNewPlace: Find restaurants in a new city similar to ones you like in a different city,"Experimental Particle Physics, University of California, Los Angeles, Postdoc",Yelp,Engineering Manager
+75,Alan Wilson,NewsSpectra: Find news at your level.Â ,"Particle Physics,Â University of Michigan, Postdoc",Glassdoor,Senior Data Scientist
+76,Bharat Kunduri,Git-A-Friend: Find friends/collaborators on Github,"Space Physics, Virginia Tech, PhD",rocQ,Data Scientist
+77,Matt Gibb,CrowdMinr: Make a great return on your investment with peer-to-peer lending,"Computational Biology, University of Oxford, PhDÂ ","Affirm, Inc.",EDU Specialist
+78,Becky Tucker,OnLocation: How to see where your favorite movies were filmed.Â ,"Experimental Astrophysics, California Institute of Technology, PhD",Netflix,Sr. Data Scientist
+79,Saba Zuberi,WhatGives: Predicting the funding success of Kiva loans.Â ,"Theoretical Particle Physics,Â Lawrence Berkeley National Lab, Postdoc",TaskRabbit,Data Scientist
+80,AJ Ribeiro,ForecastingTomatoes: Predict how your film will be received,"Space Science, Virginia Tech, PhDÂ ",Uber,Software Engineer
+81,Nhung Ho,Healthy-Me: Making health discovery easy,"Observational Astrophysics, Yale, PhD",Intuit,Sr. Data Scientist
+82,Cian Menzel-Jones,LinkedInsight: Find the skills and connections that matter,"Computational Atomic, Molecular and Optical Physics,Â The University of British Columbia, PhD",Stitch Fix,Manager of Data Science
+83,Joy Rimchala,InvestWiser: Predicting series A crunch outcome.,"Biological Engineering, Computation & Neural Systems, MIT, Postdoc",Intuit,Data Scientist
+84,Jun Yan,NewsLine: Automated timeline that provides you context of news topics.,"Chemical Engineering, Stanford, Postdoc",AT&T,Senior Data Scientist
+85,Ricardo Pinho,Happy.li: Helping couples decide where to work and live together... and live happily ever after,"Computational Biology/Physics, Stanford, PhD",Grand Rounds,Data Scientist
+86,Daniel Perez-Becker ,FareBeast: On the prowl for the lowest airfares,"Theoretical Astrophysics, UC Berkeley, PhD",Microsoft Yammer,Data Scientist
+87,Lauren Nicolaisen,PickYourFiction: Find a book you'll love!,"Physics (Theoretical Population Genetics), Harvard, PhD",Khan Academy,Data Scientist
+88,Natalie Han,DJ-Cloud: Discover popular music albums with cloud computing,"Medical Image Analysis, Stanford, Postdoc",LinkedIn,"Manager of Data Science, Business Analytics"
+89,Allen Sussman,Two-lu: Movie recommendations for two!Â ,"Experimental Condensed Matter Physics, UC Berkeley, PhD",Sojern,Data Scientist Engineer
+90,Jeff Seifried,dogWalkScore: Find the neighborhood for you and your dog.Â ,"Nuclear Engineering, UC Berkeley, Postdoc",Yelp,Software Engineer - Data-Mining
+91,Shelly Jang,"BeeHealthy: Join the hive, get healthy!Â ","Synthetic Biology, University of Washington, PhD",Athos,Data Scientist
+92,Javiera Guedes,$trategy: Get notifications on when to buy/sell a stock.,"Computational Astrophysics, ETH Zurich, Postdoc",Teralytics,Data Scientist
+93,Mike Grinolds,KickFinder: Kickstart the perfect project,"Experimental physics, Harvard, PhD",SalesforceIQ,Technical Lead and Staff Engineer for Data Products
+94,Adel Dayarian,RelaxedParking: Parking assistant to avoid traffic tickets and car-related crimes,"Computational Biology and Biophysics, Kavli Institute for Theoretical Physics, UC Santa Barbara, Postdoc",Facebook,Data Scientist
+95,Burcu Baran,GroupDine: Giving restaurant suggestions to a group of people based on their Instagram posts,"Mathematics, Stanford/University of Michigan, Postdoc",6Sense Insights,"Senior Data Scientist, Business Analytics (Data Mining)"
+96,Nancy Ru,BurstingTheBubble: Recommending news articles from outside your bubble,"Applied Physics, Stanford, PhD",Sling Media,Principal Programmer/Analyst
+97,Ahna Girshick,Wikiphilia: Scoring Wikipedia Page Quality,"Vision Science & Computer Science, UC Berkeley, PhD",Enlitic,Head of Product
+98,Heather Shapiro,HealthImpact: Expediting medical care for those in need,"Cognitive Neuroscience, UC Davis, Postdoc",Pebble,Data Mining Engineer
+99,Jesus Martinez,EdXPredictor: Predict your performance on edX courses,"Astrophysics, University of Florida, PhD",Capital One,Data Scientist
+100,Matt George,StreetsAhead: Image recognition with deep learning in Street View,"Astrophysics, UC Berkeley, PhD",Square,Data Scientist
+101,Carlos Cunha,Jaunt: Recommendations along the way!,"Cosmology and Astrophysics, Stanford, Postdoc",Bosch,Senior Data Scientist
+102,Adam Morgan,CharityVerity: Predicting charity ratings to guide effective altruism,"Astrophysics, UC Berkeley, PhD",Target,Lead Data Scientist
+103,Wafa Soofi,"CrowdSkippr: Minimize crowds, maximize joy","Biomedical Engineering/ Computational Neuroscience, Georgia Institute of Technology/Emory University, PhD",Square,Data Scientist
+104,David Paulsen,RxFX: Prescription Drug Recommendations & Side Effect Discovery,"Cognitive Neuroscience, University of Pittsburgh, PhD",Prosper,Director of Data and Analytics
+105,Nicholas Peterson,Math.StackExpert: Finding you high-quality questions on Math,"Mathematics, The Ohio State University, PhD",Electronic Arts,Data Scientist
+106,Vanessa Heckman,Lenderstanding: Helping lenders help,"Civil Engineering, Geophysics, Caltech/California Institute of Technology",Apple,Data Mining Scientist
+107,Aparupa Das Gupta,Price Wizard: Recommends the highest price to post on Craigslist for selling furniture items,"Operations Research, UCLA, PhD",Cisco,Data Scientist
+108,Kevin Teh,Cluster-Pluck: Disambiguating Twitter Search,"Mathematics, Caltech, PhD",Opendoor Labs,Data Scientist / Software Engineer
+109,Zack Chadick,Steal-This-House!: Crime doesn't pay...'cept for your bottom line!,"Systems Neuroscience, UCSF, Postdoc",Facebook,Data Scientist
+110,Kevin Ford,TapMapper: Find out what the locals are drinking/tweeting,"Biophysics/Neuroscience, UCSF, Postdoc",Counsyl,Data Scientist
+111,Kelty Allen,AmazonExplorer.info: A deeper look into Amazon product review history,"Mathematical Logic, UC Berkeley, PhD",Microsoft,Data Scientist
+112,Jason French,Green Machine: Removing the barrier to solar energy estimation,"Differential Psychology, Northwestern University, PhD",Rise Interactive,Data Scientist
+113,Asif Imran,git-discover: Unlock the potential of Github,"High Energy Astrophysics, Wisconsin IceCube Particle Astrophysics Center, Postdoc",AdRoll,"Tech Lead, Programmatic Optimization & Fraud Prevention"
+114,Meredith Trotter,Should I Kick or Should I Go?: Optimize your crowdfunding campaign,"Biology: Evolutionary and Demographic Theory, Stanford, Postdoc",Lumiata,Data Scientist
+115,Nicholas Tilmans,DrugScope: Scope out your medicine before taking it!,"Biochemistry, Stanford, PhD",Lumiata,Data Scientist
+116,Christopher Klein,What's for Dinner: Dinner recommendations to meet daily nutrition goals,"Astronomy, UC Berkeley, PhD",Apple,Siri Data Scientist
+117,Igor Bespamyatnov,AdNet: Graph recommender for news domains,"Plasma Physics, University of Texas, Austin, PostdocÂ ",Apple,Data Scientist 
+118,Benoit Dherin,GradeExpectation: Piazza forum analyzer,"Mathematics and Statistics, UC Berkeley, PhD",IBM,Watson Senior Software Engineer
+119,Monica Hsu,TruValuation: Predict the true value of your home,"Biophysics, UCSF, PhD",Intuit,Data Scientist
+120,Michael Woods,MelodyMapr: Improving the road trip experience,"Physics, UC Davis, PhD",Yelp,Software Engineer Data Mining
+121,Ravi Menon,SearchPy: Search for related python code on Stack Overflow,"Earth & Ocean Sciences/Signal Processing, UCSD, Postdoc",Brilliant.org,Director of Data and Analytics
+122,Meng (Ray) Gao,UpFindr: Find the best activity partners on Meetup.com!,"Â Physics, University of Toronto, PhDÂ ",Pilot AI Labs,Sr. Data Scientist
+123,Nicole Romano,SetList: Set your life to music,"Materials Engineering (Neural Regeneration), Stanford, PhD",RadiumOne,Data Scientist
+124,Michael Ramm,Hoppr: Optimize route for running errands,"Physics, UC Berkeley, PhD",Netflix,Senior Data Scientist
+125,Sumin Tang,LinkBooksMovies: Book recommendations if you like a certain movie,"Astrophysics,Â Caltech/University of California, Santa Barbara, Postdoc",Facebook,Ads Analytics
+126,Vickie Zhang,VentureNetwork: Recommend high potential startups based on investor's portfolio,"Bioengineering, UC Berkeley, PhD",Facebook,Data Scientist
+127,Leifur Thorbergsson,FindMyPoem: Finding the poem that fits your mood and preference,"Statistics, Cornell University, PhD",Memorial Sloan Kettering,Data Scientist
+128,Daniel Fernandez,abstrART: Bringing price transparency to the art market,"Statistics, Harvard, PhD",Encompass Capital,Data Scientist
+129,Josh Ainsley,childHood: Finding a kid-friendly place to live,"Neuroscience, Tufts University, Postdoc",Coach,"Director, Customer Intelligence & Data Science"
+130,Robert Amanfu,CraigFlagr: Check flag potential of Craigslist posts,"Biomedical Engineering, University of Virginia, Postdoc",Capital One,Data Scientist
+131,Friederike Schueuer,Drugged-up: Know what's in your drugs and how that might make you feel,"Cognitive Science, New York University, Postdoc",Fast Forward Labs,Data Scientist
+132,Anita Schmid,Q-Schools: Learn English through Sign LanguageÂ ,"Systems Neuroscience, Weill Cornell Medical College, Faculty",Credit Suisse,Senior Data Scientist
+133,Andrew Zirm,"nimi: Everyone has a name, your kid needs a great one!","Astrophysics, Niels Bohr Institute, Copenhagen University, FacultyÂ ",Greenhouse,Data Scientist
+134,Divyanshu Vats,cities4me: Discover cities based on your interests!,"Machine Learning, Rice University, Postdoc",Two Sigma,Quantitative Researcher
+135,Yiping Yuan,Career Wizard: A career path recommender,"Statistics, University of Minnesota, PhD",LinkedIn,Machine Learning Researcher
+136,Pouria Fewzee,HOSPARENCIE: Transparency in hospitalization fees,"Electrical & Computer Engineering, University of Waterloo, PhD",Zoom.ai,Senior Data Scientist
+137,Genevieve Smith,Neutral_Opinion: Visualizing opinions on net neutrality,"Ecology & Evolution, The University of Texas at Austin, PostdocÂ ",Insight Data Science,Director of Product
+138,Ethan Geil,Rain: Real-time radar-based precipitation forecasting,"Physics, Cornell University, PhD",BitSight,"Technical Director, Big Data"
+139,Brandon Kelly,The Flavory: An ingredient recommendation factory,"Astrophysics, UCSB, Postdoc",Goodyear,Big Data Engineer/Analyst
+140,Alex Ruiz-Euler,Yelper Helper: An engine for tailored Yelp Reviews,"Political Economy, UCSD, PhD",Viacom,"Senior Data Scientist, Audience Science"
+141,Yannan Zheng,Customized running route recommendation system,"Systems Biology, MIT, PhD",Citadel,Quantitative Researcher
+142,Courtney Epstein,okmeeple: Don't leave it to chance; find your perfect board game match,"Astronomy, The Ohio State University, PhD",ZocDoc,Senior Data Scientist
+143,Kevin Mercurio,edu Intervention: Identifying at-risk students to improve graduation rates,"Particle Physics, Harvard, PhD",Spotify,Senior Data Scientist
+144,Thomas Vincent,MillionDollar$tory: Maximizing the profitability of your movie,"Biostatistics, Weill Cornell Medical College, Postdoc",DigitalOcean,Data Scientist
+145,Gautham Nair,Active GitHub: Predicting future development activity of GitHub projects,"Systems Biology, University of Pennsylvania, Postdoc",Memorial Sloan Kettering Cancer Center,Data Scientist
+146,Jennifer Li,HomewardBound: Helping predict and promote dog adoption,"Computational Neuroscience, Brandeis University, Postdoc",TripAdvisor,Data Scientist
+147,Marco Morales ,Ticket Me If You Can: Fending off parking tickets in NYC: Could you get away with it?,"Political Science, New York University, PhD",NBC,"Associate Director, Management Science & Integration"
+148,Jacob Boysen,CrossingGuard: Routes around New York City's most dangerous intersections,"Systems Biology, MIT, PhD",Regeneron Pharmaceuticals,Staff Scientist
+149,Dahlia Nadkami,Locality Lookout: Identifying high priority complaints in your area,"Applied Mathematics, Brown University, PhD",Akamai,Senior Performance Engineer
+150,Megan Schroeder,Basketball ROI: Assessing the risk of injury for players in the NBA,"Biomedical Engineering, Northwestern University, PhD",LA Dodgers,"Manager, Research & Development"
+151,Iva Vukicevic,Ravel Me: Your knitting pattern recommender,"Applied Mathematics, Columbia University, PhD",Macy's,Data Scientist
+152,Andrew Zaldivar,YC Predictor: Predicting the likelihood of a Y Combinator participant remaining in operation,"Cognitive Neuroscience, UC Irvine, PhD",Google,"Strategist, Product Quality Operations "
+153,Zach Gazak,Empowering Embedding: A billion recommendations per month,"Astronomy, University of Hawaii, Postdoc",H2 ventures,VC Associate
+154,Sarah Rastkar,MyReviewRater: Uncovering helpful Amazon reviews,"Computer Science, University of British Columbia, Postdoc",Linkedin,Sr. Data Scientist
+155,Giada Carminati,WhoDoesMyHair: Find the most popular stylist in a hair salon,"Particle Physics, UC Irvine, Postdoc",Stubhub,Data Scientist
+156,Greg Novak,PicPickr: Find your best photos faster!,"Astrophysics, Paris Observatory, Postdoc",Stitch Fix,Data Scientist
+157,Grace Tang,tripsift: TripAdvisor made simple - so you don't have to read it all,"Bioinformatics, Stanford, PhD",LinkedIn,Security Data Scientist
+158,Geoff Svacha,Improving power management of Lockitron,"Policy Analysis, Pardee RAND Graduate School, PhD",Capital One,Data Scientist
+159,Chris Williams,STRAVA buddies: A workout partner recommender for runners and cyclists,"Cell Biology & Computational Genomics, UCSF, PhD",Airbnb,Data Vizualization Specialist
+160,Jack Chai,Zidisha - Identifying sustainable interest rates to help small businesses grow!Â ,"Chemical Engineering & Biophysics, Stanford, PhD",Motiv Inc,Data Scientist
+161,Tara Lydiard-Martin,Candidate Summary: Get a quick overview of Congressional candidates,"Systems Biology, Harvard, PhD",Stitch Fix,"Manager, Data Science and Demand Forecasting"
+162,Jack Cackler,Embarkov: Plan your whole trip in one click!Â ,"Biostatistics, Harvard, PhD",Facebook,Data Scientist
+163,Cody Chapman,The Muse: Content recommendation algorithm for TheMuse.com,"Physics, UCSD, PhD",Sparked,Data Scientist
+164,Stephen Swedish,Churn Prediction at Strikingly: Reducing costs of retention strategies,"Physics, University of British Columbia, PhD",Facebook,Data Scientist
+165,Helena Wang,AveNeue: A walking tour itinerary recommender,"Neuroscience, New York University, Postdoc",Grand Rounds,Data Scientist
+166,Kristen Werner,The Smarter Watch: Increasing user engagement on Pebble,"Neuroscience & Behavior, Princeton, Postdoc",Facebook,Data Scientist
+167,Patrick Phelps,Foodgroupr: Finding great local neighborhoods to eat and drink,"Physics,Â Case Western Reserve University, PhD",Yelp,Data Engineer
+168,Xiaoxiao Wang,RisingAll-star: Predicting rookie players' likelihood of becoming future NBA super stars,"Experimental Particle Physics, Yale, PhD",Prosper,Data Scientist
+169,Joerg Fritz,Run Findr: Discover running routes like a local,"Applied Mathematics, Harvard, PhD",Stitch Fix,Data Scientist
+170,Matt Mollison,This is Happening: Discover social hotspots in the real world!,"Cognitive Neuroscience, University of Colorado Boulde, PhD",Silicon Valley Data Science,Data Scientist
+171,Morag Scrimgeour,BookMatchr: Helping you maximize the success of your book,"Astrophysics & Cosmology, University of Waterloo & Perimeter Institute for Theoretical Physics, Postdoc",Sparked,Data Scientist
+172,Lindsay Pettingill,"dr-findr: A web app that helps you find the doctor you need, and avoid the ones you don't!","Political Science, Georgetown University, PhD",Airbnb,Data Scientist
+173,Evan Bloom,Price My Ticket: Smartly selling your SF Giants tickets,"Policy Analysis, Pardee RAND Graduate School, PhD",Capital One,Data Scientist
+174,Jonathan Whitmore,HammerPricer: Predicing auction prices for Abstract Expressionist art,"Astrophysics, Swinburne University, Postdoc",Silicon Valley Data Science,Data Scientist
+175,Erin Hult,Managing loan inventory at Zidisha,"Energy Efficiency, Lawrence Berkeley National Laboratory, Postdoc",Facebook,Operations Analyst
+176,Derek Chang,lastingloans: Fraud detection for Zidisha,"Electrical Engineering, Stanford, PhD",Optimizely,Data Scientist
+177,Chloe Mawer,Rewinder: Wind through your city's history,"Environmental Fluid Mechanics, Stanford, PhD",Silicon Valley Data Science,Data Scientist 
+178,Andrew Koo,SupremeBrief: Solution for legal case summary,"Biological Engineering, MIT, PhD",Facebook,Data Scientist
+179,Alex Groves,How To Strike: Optimizing a directed e-mail campaign,"Behavioral Economics, ECARES, ULB, Postdoc",CreativeLive,Data Scientist
+180,Steven Schaffert,Community Matters: Focus your outreach,"Computational Immunology, Stanford, Postdoc",Kabam,Data Scientist
+181,Ken Soong,"Oh, The Places You'll Go!","Applied Physics, Stanford, PhD",LinkedIn,Data Scientist
+182,Yvonne Edmonds,FantasyFilm: Can you make a better film than Hollywood?,"Physics, Stanford, Systems EngineerÂ ",McKesson,Generics Analytics-Data Scientist
+183,Rachel Reddick,IndieRecommender: Find Indie games like video games you already love,"Â Astrophysics, Stanford, PhD",Bosch,Data Scientist
+184,Alex Smolyanskaya,beautifulcity: Discover street art all around the world,"Neuroscience, University of Pennsylvania, Postdoc",Stitch Fix,Data Scientist 
+185,Matt Pancia,eggCite: Hatching medical knowledge,"Mathematics, University of Texas, Austin, PhD",Grand Rounds,Data Scientist
+186,Josh Miller,stumbLr: Where will you stumbl next?,"Astrophysics, Penn State, Adjunct Faculty",SambaTV,Data Scientist
+187,Kristofor Nyquist,Prep Fo/r/ DIY: Find relevant content to plan your next hobby or home-improvement,"Biophysics, UC Berkeley, PhD",Pacific Biosciences,Research Scientist/Data Scientist
+188,Andy Almand-Hunter,runSmartr: Better running routes through data,"Physics, University of Colorado, Boulder, PhD",Stitch Fix,Data Scientist
+189,Susmita Ghose,kosha: Discover the foodie in you,"Software Reliability Engineering, Oracle, PhD",RASA Networks,Data Scientist
+190,Mason Liang,Bitcrumbs: Follow the bitcoins,"Computational Biology, UC Berkeley, PhD",KQR LLC,Quantitative Engineer
+191,Yun Lee,UnicornHuntr: Predict the success of early-stage startups,"Chemical Engineering, UCLA, Postdoc",Netflix,Senior Data Scientist
+192,Shuai Shao,Fairbnb: Fair price for renting out your lodging!,"Physics, Boston University, PhD",Glassdoor,Data Scientist
+193,Sushant Tripathy,Ovrvue: Automatic content filtering for a safer Internet,"Life-Sciences, Stanford, PhD",People Prodigy,Lead Data Scientist
+194,David Hochstetler,mixTunes.in: Find your new groove,"Environmental Engineering, Stanford, Postdoc",Facebook,Operations Analyst
+195,Jeffrey Yang,Connected Graph: Identifying user connections for YesGraph,"Materials Science & Engineering, Stanford, PhD",AltX,Data Scientist
+196,Mei Gao,I'mfeelinghungryy: Don't know what to eat? Food for your mood!,"Atmospheric & Oceanic Science and Statistics, UCLA, PhD",Facebook,Data Scientist
+197,Ben Thompson,RespawnInto: Tired of playing your favorite game for the 10th time? Respawn into a new favorite,"Astrophysics, Texas Christian University, PhD",Uber,Data Scientist
+198,Lauren Chircus,"Analytics for Tindie.com: If you build it, will they come?Â ","Systems Biology, Stanford, PhD",Airbnb,Data Scientist
+199,Sally Langford,Inn Transit: Optimizing your accommodation options in walkable cities,"Climate Modeling, University of Colorado, Boulder, Postdoc",Stitch Fix,Data Scientist
+200,Mark Sena,ATHOS gear: Logging your workout with wearable EMG techology,"Bioengineering, UCSF/UC Berkeley, PhD",Athos,Data Scientist
+201,Matt Langner,the Blogtimize/r/: Find your audience and test the relevance of your blog,"Physics, Lawrence Berkeley National Lab Scientist",Facebook,Data Scientist
+202,Kevin Wecht,Food Findr: Connecting people to the dishes they love,"Earth and Planetary Sciences, Harvard, Postdoc",Stitch Fix,Data Scientist
+203,Anna Milazzo,Simterial: Empowering material scientists to change the world,"Neuroscience, Stanford, Postdoc",Sentry Data Systems,Data Scientist
+204,Ben Bowles,Named Entity Recognition: Classify and search for that entity with conditional random fields,"Neuroscience, UC Berkeley, Postdoc",URX & Quid,Data Scientist
+205,Tracey Li,Zidisha: optimizing the interest rates on microloans,"Urban Data Analytics, Senseable City Lab / Singapore - MIT Alliance for Research & Technology, Postdoc",Premise,Data Scientist
+206,Yuwei Liu,Next Match: Finding out how to win your next match,"Climate Science, Stanford, Postdoc",Vectra,Data Scientist
+207,Bernhard Konrad,Pharmdout: Classifying and predicting active pharmaceutical ingredient shortages,"Mathematical Biology, The University of British Columbia, PhD",Google,Software Engineer
+208,Laura Fava,LocalFeel: LocalFeel helps you find the places locals love,"Particle Physics, UCSC, PhD",Fullpower Technologies,Data Scientist
+209,Swati Jain,Pebble App Search: Find best apps for your Pebble watch,"Chemical Engineering, DNVGL, PhD",PayPal,Data Scientist
+210,Dustin McIntosh,Analyzing Analysts: Understanding the Queriers Behind the Queries,"Biophysics, UCSD, Postdoc",Google,Quantitative Analyst
+211,James Pearce,haven't reddit yet: A subreddit discovery engine,"Particle Physics, University of Victoria, PhD",Palantir,Deployed Computational Engineer/data Scientist
+212,Aaron Bradley,Lending Lounge: Saddle Up to Bigger Returns,"Physics, UC Berkeley, PhDÂ ",Stitch Fix,Data Scientist
+213,Amy Skerry,CragCrunch: Discover new rock climbing routes for you,"Brain & Cognitive Sciences, MIT, PhD",Khan Academy,Data Scientist And Engineer
+214,Ben Everson,"descri.beer: Beer discovery, not beer geekery","Physics, City University of New York, PhD",Silicon Valley Data Science,Data Scientist
+215,Keegan Kelsey,Check your tone!Â Assigning sentiment to anonymized and masked text messages using emoticons.,"Genomics, Cornell University, PhD",23&Me,Data Scientist
+216,Wilson So,NestPricer:Â Helping new residents estimate their rent given the desired amenities.,"Computer Science, UC Berkeley, PhD",Google,Data Scientist
+217,Yan Kou,Airbnb Local: Chrome extension to recommend nice neighborhoods for visitors,"Bioinformatics, Mount Sinai School of Medicine, PhD",Insight Data Science,Director of Product
+218,Ryan Vilim,"Flight or Plight: Ensuring weather, congestion, and bad luck won't ruin your vacation","Planetary Physics/Astrophysics, University of Toronto, PhD",Axon Vibe,Data Scientist 
+219,Vicki Moeller-Chan,Stellar NPO: Predicting financial viability of non-profit organizations for Guidestar,"Experimental Particle Physics, Lawrence Berkeley National Lab, Postdoc",JP Morgan,VP Global Marketing & Client Analytics
+220,Justin Gilmer,FutureCast: Predicting the rate of city-wide events based on historical data,"Mathematics, Rutgers University, PhD",Google,Deep Learning Resident - Brain Team
+221,Anasuya Das,Grapevin: Your crowd-sourced sommelier,"Neuroscience, New York University, Postdoc",Memorial Sloan Kettering,Data Scientist
+222,Lauren Burcaw,"grumbl: Complaint predictor for Queens, NY","MRI Physics, NYC School of Medicine, Postdoc",OpenSlate,Lead Data Scientist
+223,Anne Bauer,H-1B Ready: Anticipating work visa demand,"Astrophysics, Institute for Space Science, Barcelona, Spain, Postdoc",The New York Times,Senior Data Scientist
+224,Ali Roshan Ghias,instaNYC: Find live NYC events using Instagram,"Bioinformatics, Columbia University, Postdoc",Amazon,Research Data Scientist
+225,Chris Nasrallah,CourtCast: Predicting Supreme Court decisions,"Evolutionary Genomics, North Carolina State University, Postdoc",MTV,Lead Data Scientist
+226,Ethan Rosenthal,TutorWorthy: Know your worth,"Physics, Columbia University, PhD",Dia & Co,Data Scientist
+227,Alejandro Giacometti,What the Hashtag: Brand Media Monitor,"Image Analysis, University College London, PhD",EDITED,Data Scientist
+228,Maureen Teyssier,PebbleAppTailor: A usage-based recommendation tool,"Computational Astrophysics, Rutgers University, PostdocÂ ",Engima,Senior Data Scientist
+229,Sam Leitner,FriendYourVote: Mobilize voters in your social network,"Astrophysics, University of Maryland, Postdoc",CFPB,Data Scientist
+230,Robert Vesco,Restaurant Radar: Making Yelp reviews useful and actionable,"Management, Yale - School of Management, Postdoc",Bloomberg,Data Scientist
+231,Katherine Yoshida,More Matildas: Find kidlit with more girl characters,"Cognitive Science, University of British Columbia, PhD",Foursquare,Data Scientist
+232,Wei Wang,Curatir: An art recommender for NYC,"Statistics, Columbia University, PhD",Facebook,Quantitative Researcher
+233,Simon Gelinas,onTimeTravlr: Planning around New York traffic,"Physics, University of Cambridge, Postdoc",Axon Vibe,Data Scientist
+234,Charlotte Greenan,In Other News: Broaden your horizons by reading like a writer,"Statistics, University of Oxford, PhD",Tapad,Data Scientist
+235,Amelia White,shoely: Improving your online shopping experience by learning what you like,"Computational Biology, New York University, Postdoc",Dstillery,Data Scientist
+236,Adam Jenkins,TopCop: Boston's crime analysis and prediction program,"Genetics, Boston College, PhD",Biogen Idec,Senior Data Scientist
+237,Yan Tan,graphshopper: A graph-based recommendation engine for a local e-commerce startup,"Bioinformatics, Boston University and Broad Institute, PhD",Tamr,Field Engineer
+238,Sara Gettel,No Parking Zone: Safer parking in Boston,"Astrophysics, Harvard-Smithsonian Center for Astrophysics, Postdoc",AthenaHealth,Data Science Associate
+239,Thomas Moran,Cli-Migration: A recommender for the climate exodus,"Physics, UC Berkeley, Postdoc",Enigma,Senior Data Scientist
+240,Jonathan Eckel,"beersomme: Find a bar, drink awesome beer!","Physics, University of Arizona, PhD",Splash,Senior Data Scientist
+241,Josiah Walton,SmartSourcery: Data-driven job sourcing recommendations,"Experimental Neutrino Physics, University of Illinois at Urbana-Champaign, PhD",Agentis,Director of Data Science
+242,Alexander McCauley,Kickwrangler: Predict which Kickstarter projects won't deliver their products,"Computational Physics, WiTricity Corporation, PhD",BlackRock,Data Scientist
+243,Lisa Dawdy-Hesterberg,Trendalyzer: Find unique and targed trending topics,"Linguistics & Cognitive Science, Northwestern University, PhD",Backflip Studios,Data Analyst
+244,Patrick Callier,Canary: The inactivity early warning system for Twitter,"Linguistics, Stanford, Postdoc",In-Q-Tel,Data Scientist 
+245,Wendy Shao,AdClickMe: Mobile advertising click prediction and ad recommendation,"Functional Genomics, UC Berkeley, PhD",Twitter,Data Scientist
+246,Claire Lackner,Zidisha's Lenders: Lender retention and growth at Zidisha,"Astrophysics, University of Tokyo, Postdoc",Element Analytics,Data Scientist
+247,Cindy Chen,Fuel Your Startup: Connect with your next investors,"Educational Data Mining, Purdue University, PhD",Airbnb,Machine Learning Data Scientist
+248,Erin Boyle,The Tipping point: Predict whether upcoming Congressional bills will be a close call,"Physical Chemistry, University of Wisconsin - Madison, PhD",Stitch Fix,Data Scientist
+249,Katherine Livins,TLDR: The site for people that want more Karma,"Cognitive & Information Science, UC Merced, PhD",Netflix,Data Scientist
+250,Brad Hannigan-Daley,URX: Detecting actionable webpages,"Mathematics, University of Toronto, PhD",AdRoll,Data Scientist
+251,Monica Pangilinan,Football Fit: Discovering the winning components for an NFL team,"Particle Astrophysics, Brown University, Postdoc",SambaTV,Data Scientist
+252,Yen Low,Next Best Store: Predict where your next store should be,"Health Informatics, Stanford, Postdoc",Netflix,Data Scientist
+253,Talina Konotchick,Riffsy's GIF for Messenger App: User Engagement Analysis,"Genomics, J. Craig Venter Institute, Postdoc",Illumina,Data Scientist
+254,Michael Wong,Fantasy Forecaster: Predict NBA player performance to make better bets,"Medical Biophysics, University of Toronto, PhD",Kabam,Data Scientist
+255,Kelsey Jiang,Locals Know: Discovering hidden gems in Paris without speaking French,"Animal Behavior, UT Austin, PhD",Airbnb,Data Scientist
+256,Carlos Faham,Muse.ai: Classifying scenes and tracking faces in video,"Dark Matter Physics, Lawrence Berkeley National Laboratory, Postdoc",LinkedIn,Security Data Scientist
+257,Charlotte Daniels,Rally: Rapid protest detection,"Mechanical Engineering, UC Berkeley, PhD",Stitch Fix,Data Scientist
+258,Marissa Gorlick,Waggle: Your personalized garden planner,"Cognitive Neuroscience, Yale, Postdoc",CreativeLIVE,Data Scientist
+259,Alyssa Fu Ward,TextFit: How will your comment fit in the community?,"Psychology, Stanford, PhD",Twitter,Data Scientist
+260,Seiji Armstrong,PlayPredict: Predicting performance of basketball players in real-time,"Quantum Information Science, Australian National University, Postdoc",Stealth Security,Data Scientist
+261,Colin Higgins,Job2vec: Matching algorithm for Weave.in Concierge,"Biophysical Medicinal Chemistry, University of Iowa, PhD",Silicon Valley Data Science,Data Scientist
+262,Eddie Santos,VAMmer: The first cycling climb predictor based on real power-to-mass data,"Theoretical Particle Physics, UCSC, PhD",SalesforceIQ,Decision Scientist
+263,Eric White,Scene Hash: Find live shows based on any artist,"High Energy Particle Physics, California Polytechnic State University, Lecturer",Silicon Valley Data Science,Data Scientist
+264,Lakshmi Narayan,Churn Modeling: PRedicting customer churn for Salesforce usage data,"Environmental Science, UC Berkeley, PhD",Premise,Data Scientist
+265,Douglas Rudd,WhatsInMy.pics: Finding relevant images and tags based on image content,"High Performance Computing, University of Chicago, Staff",Stitch Fix,Data Scientist
+266,Immanuel Buder,Reputon: Rating predictions for Airbnb,"Harvard-Smithsonian Center for Astrophysics, Postdoc",Wallet.AI,Data Scientist
+267,Jimmy Lafontaine ,Weld: Finding patterns in calendar data,"Chemical Engineering, UCLA, PhD",Udacity,Data Scientist
+268,Alexander Gude,WhereTo.Photo: Where is the best place to take a picture? WhereTo.Photo tells you based on Flickr Data!,"Physics, University of Minnesota, PhD",In-Q-Tel,Data Scientist
+269,Alex Sutherland,We Lose It: A Social Tool for Weight Loss,"Chemistry, California Institute of Technology, PhD",App Annie,Senior Data Scientist
+270,Amanda Ford,Parental Guidance: Finding Yelp reviews written by parents,"Astrophysics, Max Planck Institute for Astrophysics, Postdoc",Farmer's Business Network,Data Scientist
+271,Andrew Van Benschoten,Campus Job: Key features in on-line job listings,"Biophysics, UCSF, PhD",Oracle,Senior Data Scientist
+272,Brian Coffey,Pageturner: Automated sheet music scrolling,"Architecture, UC Berkeley, PhD",Stitch Fix,Data Scientist
+273,Stephen Muchovej,rep-present.us: Find out what your state representative is pushing in the legislature,"Astrophysics, California Institute of Technology, Staff",Quottly,Data Scientist
+274,Peter Anthony,ListToClose: How much will a house get bid up before selling?,"Biophysics, Stanford, PhD","Move, Inc.",Data Scientist
+275,Rocio Siu Ng,artumbl.r: Your personal art discovery engine,"Ecology & Evolution, Stony Brook University, PhD",Schoold,Data Scientist
+276,TJ Torres,Random Walk: Find your next adventure,"Theoretical High-Energy Physics, UCSC, PhD",Stitch Fix,Data Scientist
+277,Sohaib Alam,MeterSure: Predicting faulty water meters in North Carolina,"Theoretical Physics (Computational String Theory), UT Austin, PhD",Valor Water Analytics,Lead Data Scientist
+278,Matthew Hoover,MealTime!: Know when your food will arrive,"Analytics & Strategy, Agricultural Microfinance, One Acre Fund, Manager",Gallup,Data Scientist
+279,Ozan Sayin,Microlending Fee Optimizer: Optimizing a flat fee for a microlending non-profit,"Biomedical Engineering, Johns Hopkins University, PhDÂ ",ZestFinance,Data Scientist
+280,Gabriel Michael,Can I Solar?: Helping you decide if solar power is right for you,"Political Science, Yale, PostdocÂ ",Schireson,Data Scientist
+281,Eric Smith,Schoolstradamus: Forecasting a school's future performance,"Physics, Princeton, PhD",Blue Apron,Machine Learning Engineer
+282,Luis Vargas,underServed: Where to open a restaurant?,"Astrophysics, Yale, PhD",SecurityScorecard,Senior Data Scientist
+283,Matthew Kretschmer,WillThereBeSpace: Find an estimate of future Citibike availability,"Physics, University of Maryland, College Park, PhDÂ ",McKinsey & Company,Senior Data Analyst
+284,Olivia Dincia,ImmerseSpace: Immerse yourself in music that fits your mood and preferences,"Computational Chemistry, University of Texas at Austin, PhD","Simulmedia, Inc.",Data Scientist
+285,Fred Kiwanuka,Vacadvisor: Budget based vacation recommender,"Computing, MIT, FellowÂ ",UNICEF,Data Scientist Researcher
+286,Noga Neeman,ClientHuntr: Identifying target customers for a large pharmaceutical company,"Computational Ecology, Drexel University, PhD",Via,Data Scientist 
+287,Robert Vogel,"infervote: Democratizing democracy, a resource for political engagement","Computational Biology, Cornell University, PhD",IBM,Research Scientist
+288,Roni Kobrosly,SciClarify: Scientific writing made clear,"Environmental Epidemiology, Icahn School of Medicine at Mount Sinai, Postdoc",Charles Schwab,Data Scientist
+289,Kathi Seidl-Rathkopf,"ClimbFindr: There are many ways to climb high, find the line that is right for you","Psychology & Neuroscience, Princeton, PhD",Flatiron Health,Quantitative Scientist
+290,Jamie Fitzgerald,Kick Stronger: Kickstarter campaign success prediction and actionable insights,"Systems Neuroscience, The Rockefeller University, Postdoc",Jet.com,Data Scientist
+291,Alexandra Ortan,wealthScore: Find prospective clients in your professional network,"Mathematics, University of Minnesota, PhD",Bloomberg,Senior Data Scientist
+292,Bobby Kim,FundAClassroomToday: Inspire your supporters on DonorsChoose.org,"Computational Biophysics, Rice University, PhD",Bloomberg,Data Scientist
+293,Brian Capozzi,HouseClickr: Finding engaged users,"Applied Physics, Columbia University, PhD",Macy's,Data Scientist
+294,Charlotte Gils,CraigPredict: Sell your car faster(er),"Computational Physics, Swiss Federal Institute of Technology Zurich, PhD",Local Logic,Senior Data Scientist
+295,Kenny Flynn,Achieve the Weave: Bringing social networks together,"Microbiology, University of New Hampshire, PhD",RedOwl Analytics,Field Data Scientist
+296,Daniel Johnson,Renew or Cancel: Predicting the success of primetime television series,"Applied Mathematics, Brown University, PhD",Hudson River Trading,Algorithm Developer
+297,Gautam Sisodia,cReddit Score: Flag hurtful comments before they are posted,"Mathematics, University of Washington, PhD",FINRA,Data Scientist
+298,Des Saraph,Call Me 'Click' (Maybe): Identifying Events Across Mobile Apps,"Business, Stanford, PhD",Two Sigma,Quantitative Researcher
+299,Mengchen Zhu,Scopos: Pandora for job search,"Biomedical Engineering, Georgia Institute of Technology, PhDÂ ",BlackRock,Associate
+300,Krishna Karthik,GoodReviews: Deliver the most useful positive and negative book reviews,"Experimental Particle Physics, New York University, PhD",JPMorgan Chase,Data Scientist 
+301,Ludmila Levkova,Virtual Wine Taster: Can we predict how good wine tastes from its chemical properties?,"Physics, University of Utah, Research Professor",Nauto,Data Scientist
+302,Damien Forthomme,GetMeThere: Help people decide whether they should take a cab or a metro,"Molecular Spectroscopy, Brookhaven National Laboratory, PhD","Simulmedia, Inc.",Senior Data Scientist
+303,Michelle Buxton,PicturePerfect: Recommending images based on what a user has already seen,"Astrophysics, Yale, Associate Research Scientist",Travelers,Systems Operations Scientist/Data Scientist
+304,Marianne Menictas,Count My Student: Predicting student application count based on profile information,"Bayesian Statistics (Variational Bayes), University of Technology Sydney, Australia, PhD",Atlassian,Data Scientist
+305,Hadi Ebrahimnejad,Empower edX: Increasing student engagement in massive open online courses,"Condensed Matter Physics, University of British Columbia, Canada, PhD",RichRelevance,Data Scientist II
+306,Margery Hines,Now Looking for Players: Ditch the forums and find a friend fast,"Electrical Engineering, Northeastern University, PhD",Apple,Data Scientist
+307,Amy Geojo,Surf the Crowd: Predicting campaign outcomes on GoFundMe,"Psychology, Harvard University, PhD",Shiftgig,Data Science Intern
+308,Sheridan Zalewski,Predicting Pedestrian Risk in SF: Finding out how safe it is to cross the road,"Astrophysics, University of California, Santa Cruz, PhD",Vantage Sports Inc,Data Scientist
+309,Roozbeh Davari,Insights from DonorsChoose: Boosting funding opportunities for LA teachers and students,"Astrophysics, UC Riverside, PhD",Aisera,Data Scientist
+310,Yesu Feng,How to make a tailored TED talk: The secret of making a contagious TED talk,"Chemical Physics, University of California, San Francisco, Postdoc",LinkedIn,Software Engineer
+311,Stathis Ilonidis,Forecasting Demand: A data-driven model to forecast the demand for the products of a subscription e-commerce startup,"Physics, Stanford, Postdoc",A9.com,Data Sciences Engineer
+312,Yossof Eshaq,Self-Regulate: Your way to an informed purchase power,"Â Experimental Particle Physics, University of Rochester, PhDÂ ",Yelp,Data Scientist
+313,Milinda Lakkam,Talking points: Capture the conversation,"Computational & Mechanical Engineering, Stanford, PhD",LinkedIn,Security Data Scientist
+314,Matthew Wardrop,Text Spotting: Facilitating computer indexing of text in images and videos,"Quantum Physics, University of Sydney, Australia, PhD",Airbnb,Data Scientist
+315,Matt Wittmann,ScenicStroll: Discover the best scenic walking tours to explore your area,"Physics, UCSC, PhD",Stitch Fix,Data Scientist
+316,David Puldon,Game2Table: Recommending boardgames your entire group will enjoy,"Physics, Stony Brook University, PhD",Square,Data Scientist
+317,Beth Stankevich,HealthSherpa: Predicting healthcare expenditure,"Neuroscience, UC Davis, PhD",Uber,Data Scientist
+318,Julija Bagdonaite,Cambly: Rating English tutors with user and tutoring session data,"Astrophysics, VU University Amsterdam, PhDÂ ",Facebook,SMB Analyst
+319,Tess Kornfield,Move Loot: A predictive model for data-driven logistics,"Neuroscience, UC Berkeley, Postdoc",thredUP,Data Scientist
+320,Helen Craig,BakeAgain: Summarizing recipe modification from comments on recipes,"Applied Physics, Stanford, PhD",Yewno,Data Scientist
+321,Berkeley Almand-Hunter,Ski in Solitude: Helping you find the slope less travelled,"Mechanical Engineering, University of Colorado, PhD",Square,Data Scientist
+322,Birgit Hausmann,MyViewBNB: Find airbnbs with a great view,"Applied Physics, UC Berkeley, Postdoc",Glassdoor,Data Scientist
+323,Michael Nip,Buskerbot: Find awesome music near you,"Systems Biology, UCSB, PhD",BlackRock,Data Scientist
+324,Melody Wolk,TindArt: Find your art match!Â ,"Cosmology, Institute for Astronomy, Postdoc",Vectra,Data Scientist
+325,Nicholas Malecek,Sound Measure: Gecoding insights from consumer spending,"Neuroscience, UC Berkeley, Postdoc",Yelp,Data Scientist
+326,Jesse Clark,#Holla-A-Hashtag: Holla Away! Search Twitter today!,"Physics, Stanford, Postdoc",Stitch Fix,Data Scientist
+327,Maria Minakova,"YouTube Matchmaker: Recommending Youtube channels with the same ""IT"" factor, using community detection","Biophysics, University of North Carolina at Chapel Hill, Postdoc",Facebook,Data Scientist
+328,Matt Giguere,doglodge.io: Find the best place to stay with your dog,"Astrophysics, Yale, PhD",Rhumbix,Data Scientist
+329,Lavanya Sharan,Keyword Finder: Automatic keyword extraction- no alchemy required!,"Brain & Cognitive Sciences, MIT, Research Scientist",Netflix,Data Scientist
+330,Laura Guglielmini,RadiumOne: Find converters through domain clustering based on network population,"Fluid Mechanics, Stanford, Research Associate",Facebook,Data Scientist
+331,Derek Zhou,"LifeScholar: Organize the world's learning, one online course at a time","Environmental Science & Management, UCSB, PhD",Airbnb,Data Scientist
+332,Daniel Margala,LazyChef: Making the most with what you've got,"Cosmology, UC Irvine, PhD",Silicon Valley Data Science,Data Scientist
+333,Danny Maruyama,Catch-A-Catfish: Protecting you from malicious dating profiles,"Physics, University of Michigan, PhDÂ ",SambaTV,Data Scientist
+334,Hongsup Shin,Wheretobiz: Where do you want to open your new business?,"Neuroscience, New York University, Postdoc",Ayata,Data Scientist
+335,Ljiljana Zigic,TaggerNews: Automatic tagging system for Hacker News,"Computer Science, Virginia Commonwealth University, PhDÂ ",Yelp,Software Engineer
+336,Kirstin Aschbacher,Doc Topics: Find a good doctor by summarizing Yelp reviews,"Psychology/Behavioral Medicine, UCSF, Assistant Professor, Clinical Health",Jawbone,Data Scientist
+337,Philip Hebda,GitWatch: Revealing where to contribute to open source projects,"Particle Physics, Princeton, PhDÂ ",Netflix,Data Scientist
+338,Karen Hayrapetyan,buzzeat:Â Find the dish you crave,"Physics,Â Purdue University, PhD",H20,Data Scientist
+339,Jeremy Karnowski,Zidisha: Predicting microloan defaults & estimating average default loss per borrower,"Cognitive Science, UCSD, PhD",Insight Data Science,Artificial Intelligence Lead
+340,LiWei Lin,DogHaven: Your dog will love this place,"Computational Space Physics, University of New Hampshire, Postdoc",BitSight Technologies,Jr. Data Scientist
+341,Romano Foti,BidMeUp: Predict the probability of success of online auction bids,"Water Science, Drexel University, Faculty",OnDeck,Data Scientist
+342,Andrew Kontaxis,HackYrNews: Build your personalized feed for Hacker News,"Mathematics, UT Austin, PhD",EnergyHub,Data Scientist
+343,Katy Ghantous,ViceMatch: Find the perfect cigar for your whisk(e)y,"Plasma Physics, Ecole Polytechnique, Postdoc",Applecart,Data Scientist
+344,Alex Glenday,Balancing the Load: Optimizing the micro-finance supply and demand,"Physics, Harvard-Smithsonian Center for Astrophysics, PostdocÂ ",Komodo Health,Machine Learning Engineer
+345,Alexander Jerneck,That's for dinner: Maximal inspiration in minimal time,"Sociology, University of Pennsylvania, PhD",CubeSmart,Data Scientist
+346,Evgeny Shapiro,Textbooks Unchained: Find free textbooks with the help of recommendations from Amazon,"Evident Point Software, Software Developer",GNS Healthcare,Research Scientist
+347,Melissa Louie,BKrawl: Krawling smarter and safer,"Astrophysics, Stony Brook University, PhDÂ ",Pymetrics,Data Scientist
+348,Sharath Bennur,LegoMe: LEGO set futures,"Neuroscience, University of Pennsylvania, Postdoc",Gartner,Business Associate
+349,Bradley Deutsch,Back Tweet Driver: Refining tweets to improve the chance of a retweet,"Computational Optics, University of Illinois at Urbana-Champaign, Postdoc",Schireson Associates,Data Science Consultant
+350,Matineh Shaker,HedgeClone: Hedge fund return predictor,"Electrical & Computer Engineering, Northeastern University, PhD",Bonsai AI,Artificial Intelligence Engineer
+351,Ming Zhao,LESS: Learn English smarter and swiftly,"Astrophysics, Pennsylvania State University, Research FacultyÂ ",The New York Times,Data Scientist
+352,Alex Tomberg,almostPerfect: Finding the worst in Amazon's best,"Probability & Mathematical Physics, University of British Columbia, PhDÂ ",Knowtions,Data Scientist
+353,Zeinab Abbassi,PBFree: Find your lead-free home,"Computer Science, Columbia University, PhD",Tomorrow Networks,Senior Data Scientist
+354,Zigmund Kermish,iAppreciate.NYC: NYC neighborhood real estate price appreciation predictor,"Physics, Princeton University, Postdoc",Spotify,Data Scientist
+355,Deepna Devkar,FlavorFindr: Discover your flavor profile,"Neuroscience, New York University, Postdoc",Dotdash,Director of Data Science
+356,Dmitriy Gorenshteyn,RailActive: Empowering NJTransit with train delay forecasting,"Quantitative & Computational Biology, Princeton University, PhD",Memorial Sloan Kettering,Data Scientist
+357,Douglas Rubin,ChemCast: Predicting user experience,"Physics, Harvard, PhD",Viacom,Data Scientist
+358,Melanie Freed,CrabPredictor: Predicting the blue crab population in the Chesapeake Bay,"Bioengineering, NYU School of Medicine, Associate Research Scientist",OnDeck,Senior Data Scientist
+359,Michel Savard,MakeMyDay: A DIY-project finder for the Maker in all of us,"Experimental Physics, McGill University, PhD",Gartner,Data Scientist
+360,Kuhan Wang,Feature Rank: A pipeline to analyze word features in online corpora,"Particle Physics, McGill University, PhDÂ ",Gartner,Data Scientist
+361,Soumya Sanyal,HealthSavR: Putting healthcare consumers in charge,"Mathematics, University of Missouri, Postdoc",Applecart,Data Scientist
+362,Sach Sokol,BirdSpottr: Optimizing your search for bids,"Systems Neuroscience, Johns Hopkins University, Postdoc",Meetup,Data Scientist
+363,Philip Nutzman,cityspinneret: Matching neighborhoods across cities,"Observational Astronomy, PhD",Gartner,Data Scientist
+364,Robert Hellauer,RideSmoothly: Avoid pothole-ridden routes on your commute,"Physics, University of Maryland, PhD",Schireson Associates,Data Science Consultant
+365,Daniel Jumper,Forecast My City: A city economic predictor,"Experimental Particle Physics, University of Illinois at Urbana-Champaign, PhD ",Capital One,Principal Data Scientist
+366,Paul Brenner,CafeSnob: Finding your new favorite coffee shop,"Plasma Physics, Columbia University, PhD",PlaceIQ,Data Scientist
+367,Kenny Kwan,App Lift: Estimating app installation probabilities,"Civil Engineering, Northeastern University, PhD",Booster,Data Scientist
+368,Michael Scherrer,ParkPic: Setting the scene for photographers in US National Parks,"Cell and Molecular Biology, University of Texas at Austin, PhD",NestlÃ© Waters North America,Data Scientist
+369,Brenton McMenamin,Legislator Prognosticator: Examining campaign donations to predict which laws get written,"Cognitive Neuroscience, University of Maryland, Postdoc",Enigma,Data Scientist
+370,Nikita Kirnosov,Illseeitall: Optimize your schedule to see the greatest number of sites,"Chemical Physics, University of Arizona, PhDÂ ",Google,Data Scientist
+371,Shannon Hughes,GoGuardian Consulting Project: Keep students on track with real-time insights into web browsing activity,"Electrical & Computer Engineering, University of Colorado, Boulder, FacultyÂ ",Pandora,Senior Data Scientist
+372,Yevgeniy Frenkel,NoiseFreeNYC.com: Noise free apartment finder,"Applied Mathematics, New York University, Postdoc",Placed,Data Scientist
+373,Andy Garcia,Churn Signals: Identifying actionable signals on churn for an e-commerce company,"Spatial Epidemiology, Bill and Melinda Gates Foundation, Postdoc",Facebook,Data Scientist
+374,Eric Titus,Understand your Brand: Understand what users are tweeting about your brand,"Chemistry, Temple University, PostdocÂ ",GEICO,Data Scientist 
+375,Joseph Duimstra,FindYourNextShow: A Local Live Music Discovery Tool,"Data Science, Duimstra Consulting, PrincipalÂ ",Apple,Senior Sensor Algorithm Engineer
+376,Harry Papadimitriou,League Coach: Play at a higher level,"Neuroscience, Washington University, PhD","Data Science, Inc.",Data Scientist
+377,Kimberly Venta,Sports Rankr: Improving college football ranking metrics,"Device Physics, Graphene Frontiers, Postdoc",The Hartford,Data Scientist 
+378,Nam Lee,TaxiOrNot: Predicting the user&#39;s next event location,"Statistics & Mathematics, Johns Hopkins University, Faculty",Expedia,Data Scientist
+379,Barath Ezhilan,ClickInsight: Increasing link clicks on Facebook news posts,"Mechanical Engineering & Computational Biophysics, UCSD, PhD",Amazon,Applied Scientist
+380,Francois Charest,WalkSafr: Finding safer walking routes,"Mathematics, Columbia University, Postdoc",J.P. Morgan,Data Science Associate
+381,Judith Li,Smartan: A smart workout recommender,"Computational Geoscience, Stanford University, PhD",SAP,Data Scientist
+382,Katie Amrine,kittyTwin: Find a feline friend that looks just like you,"Computational Biology, UC Davis, Postdoc",Insight Data Science,Program Director & Data Scientist
+383,Kenny Taliaferro,Vacation Finder: Find vacation destinations based on your interests,"Mathematics, UT Austin, PhDÂ ",Marlette Funding,Data Scientist
+384,Yinghan Fu,GitRecruit: Finding potential recruits using Github,"Biophysics, University of Rochester, PhD",Yelp,Data Scientist
+385,Vijay Vammi,BackMeUP: Backing music tracks customized for emotion,"Computational Biology, Iowa State University, PhD",ARM,Data Scientist
+386,Julia Young,@Candidates: How twitter users tweet at presidential candidates,"Physics, The Ohio State University, PhD",Progressive Leasing,Data Scientist
+387,Jiong Zhang,FastMatch: Pairing Algorithm for people to extend professional network.,"Bioinformatics, University of Missouri-Columbia, PhD",Mercedez-Benz R&D,Data Scientist
+388,Hee Yeun Kim,CleanSleep: Clean Hotel finder based on Tripadvisor reviews,"Experimental High Energy Physics, University of Texas at Arlington, Postdoc",Allstate,Data Analytics Engineer
+389,Emily McLinden,Photosifter: Which images engage your customers the most?,"Astrophysics, UT Austin, PhD",Juvo,Data Scientist
+390,Jackie Brosamer,Pony Pricer: Predicting sale prices for ponies ,"Physics, UC Berkeley, PhD",Square,Data Scientist
+391,Peter Frick,Learning customer service through topic modeling of tweets: Topic learning of tweets to rank airline services,"Systems Biology, Stanford University, PhD",AT&T,Data Scientist
+392,Yan Wang,Air Gourmet: Tasting your recipe before cooking it!,"Electrical Engineering, UCLA, PhD",Facebook,Data Scientist
+393,Yingying Bi,Airbnb Host Helper: Find the gaps and make your place stand out on Airbnb,"Electrical Engineering, Stanford University, PhD",Sojern,Data Scientist
+394,Zheyun Liu,NameOurPrice: Price it quick and right!,"Biophysics, Ohio State University, PhD",Twitter,Data Scientist
+395,Zongxiao He,EatAspex: An in-depth comparison of restaurants,"Bioinformatics, Baylor College of Medicine, PhD",Sojern,Data Scientist
+396,Ahsan Ashraf,Wallet.AL: Better decisions. More happiness,"Physics, Stony Brook University, PhD",Pinterest,Data Scientist
+397,Alex Rhee,LendingHand: Helping you invest in Lending Club loans,"Biomedical Engineering, Johns Hopkins University, PhD",Adroll,Data Scientist
+398,Alex Shearer,Magic Bus: Visualizing demand for long-range alternatives to public transportation,"Chemistry, UC Berkeley, PhD",Doxmity,Data Scientist
+399,Brianna Schuyler,Consulting with a Meeting Tool Startup: Predicting user retention when using a meeting collaboration tool,"Neuroscience, University of Wisconsin, PhD",Juvo,Data Scientist
+400,Anthony Fu,DealWheels: Used Cars Online-Great deal?,"Chemistry, UC Berkeley, PhD",Twitter,Data Scientist
+401,Damien Ramunno-Johnson,Restaurant Roulette: Take the risk out of dining!,"Physics, Oregon Health & Science University, PhD",Square,Data Scientist
+402,David Stone,BusUnBunchr: Optimizing transit trips on the SF Muni,"Particle Physics, Istituto Nazionale di Fisica Nucleare, Sezione di Roma, PhD",Trace Genomics,Data Scientist
+403,Jared Gabor,Passearch: Finding passengers for taxis,"Astrophysics, l'Institut d'Astrophysique de Paris, PhD",eBay,Data Scientist
+404,Jarred Heinrich,MouseTrek: A real-time route optimizer for Disneyland,"Evolutionary Anthropology, University of Toronto, PhD",Hello,Data Scientist
+405,Jason White,Second Hand Arbitrage: Finding the best arbitrage opportunities among neighboring second-hand markets,"Biomedical Engineering, Georgia Tech, Emory University, PhD",eBay,Data Scientist
+406,Julia Bennett,The Great Divider: Sifting conversations about politics,"Mathematics, UT Austin, PhD",Netflix,Data Scientist
+407,Kevin Kahn,One Signal: Optimizing Notification Timing,"Biomedical Engineering, Johns Hopkins University, PhD",Insight Data Science,Program Director & Data Scientist
+408,Kristina Clemens,Storm Sentiment: Exploring regional attitudes about weather events,"Bioinformatics and Genomics, Buck Institute for Research on Aging, PhD",Seven Bridges,Data Scientist
+409,Martin Gascon,Travel Safe: The safest way to travel,"Nuclear Physics, Lawrence Berkeley National Laboratory, PhD",Intertek,Data Scientist
+410,Michael Beaumier,Aletrail: Your path to discovering beer brewed in California ,"Particle Physics, UC Riverside, PhD",Mercedes,Data Scientist
+411,Niall Martin,Default Detection: Predicting micro-loan fraud for Zidisha,"Energy Engineering, University of Cambridge, PhD",Google,Data Scientist
+412,Noah Burbank,Relevance in Ads: Prediction relevance in mobile ads,"Decision Analysis, Stanford University, PhD",SalesforceIQ,Data Scientist
+413,Pamela Clevenger,IndieRecommender: Find Indie games like video games you already love,"Cognitive Psychology, University of Illinois, Urbana-Champaign, PhD",Pinterest,Data Scientist
+414,Paul Joos,BeerSeer: Discover what beer you should drink next,"Applied Mathematics, Northwestern University, PhD",Swish,Data Scientist
+415,Ruth Toner,"FanGuard: A Smart Spoiler Filter for Tumblr, Intelligently predicting spoilers without a ""spoiler warning!â","Particle Physics, Harvard University, PhD",Twitch,Data Scientist
+416,Subhan Ali,"ezhome: Smart Gardening: An affordable, weekly gardening service led by expert horticulturists","Civil & Environmental Engineering, Stanford University, PhD",Symantec,Data Scientist
+417,Victor Gehman,HomeTRAC: Find your perfect street,"Theoretical Physics, Stanford University, PhD",Cainthus,Data Scientist
+418,Xinlu Huang,TakeNote: Cliffnote for video lectures,"Electrical Engineering, UCLA, PhD",Opendoor,Data Scientist
+419,Yusuke Sakamoto,DogMeetup: Find the best dog meetup location/time,"Computational Science, Engineering, & Mathematics, UT Austin, PhD",HPE,Data Scientist
+420,Thomas Balestri,AmURA: Leveraging product review data to maximize customer satisfaction.,"Nuclear/Particle Physics, Stony Brook University, PhD",Markable,Computer Vision Engineer/Researcher
+421,Xiangling Meng,ResLearning: Predict your Yelp ratings and offer suggestions to improve it.,"Computational Chemistry, Brown University, PhD",xAd,Data Scientist
+422,Anjali Shah,Polling Patients: Elevating the healthcare experience.,"Biomedical Informatics, Rutgers University, Postdoc",IBM,Data Scientist
+423,Aslihan Ambeskovic,Mooditter: Tracking the pulse on Twitter mood.,"Biostatistics & Computational Biology, University of Rochester, Postdoc",@Point of Care,Data Scientist
+424,Bahattin Tolga Oztan,Polytweet: Predicting political party allegiance from social media data.,"Mathematical Behavioral Science, University of California - Irvine, PhD",Booking.com,Data Scientist
+425,Christopher Jackson,Pivot: Build a better NBA fantasy team with science.,"Theoretical Particle Physics, University of Texas, PhD",Pieces Technologies,Data Scientist
+426,Daniel O'Keeffe,Abstraction: Making scientific literature accessible.,"Physics, University of Toronto, PhD",Schireson,"Consultant, Data Science"
+427,Dyfrig Mon,Pothole Predictor: A tool to forecast New York City's pothole problem.,"Applied Physics, Swansea University, PhD",Vanguard,Senior Data Analyst
+428,Erik Nylen,As the drone flies: A tool for drone route optimization.,"Neural Science, New York University, PhD",Parsec,Data Scientist
+429,Eszter Schoell,Toxic Docs: Search de-classified documents on industrial poisons.,"Human Biology, Child Mind Institute / Nathan Kline Institute, Research Project Manager",O'Reilly Media,Learning Scientist
+430,James Gatewood,BarGraph: Measuring Brooklyn neighborhood nightlife.,"Mathematics, United States Military Academy - West Point, Assistant Professor",MVP Health Care,Quantitative Analyst
+431,Joshua Wainer,A City for All Seasons: Connect with local culture any time of the year.,"Computer Science (Robotics), University of Hertfordshire, PhD",Verizon,"Consultant, Data Analytics"
+432,Matt Krems  ,PhotoWalk: Get there prettier.,"Physics, University of California - San Diego, PhD",Schireson,"Consultant, Data Science"
+433,Natasha Potashnik,OptDoTa: DoTa 2 playstyle-based hero recommender.,"Mathematics, Columbia University, PhD",Schireson,"Consultant, Data Science"
+434,Patrick Doupe,LANDSAT-landstats: A population measure you can count on.,"Economics, Potsdam Institute for Climate Impact Research, Postdoc",Arnhold Institute (Mount Sinai),Senior Data Analyst
+435,Pushkarini Agharkar,Trip-A-Wiser: A wise trip planner,"Mechanical Engineering, University of California - Santa Barbara, PhD",Uber,Data Scientist
+436,Ramin Ghelichi,clickMe: Improving SmartAssetâs click-through rate.,"Mechanical Engineering, Massachusetts Institute of Technology, Postdoc",Agero,Data Scientist
+437,Romesh Kumbhani,PicSift: Does your photo make the cut?,"Neuroscience, New York University, Associate Research Scientist",Schireson,"Consultant, Data Science"
+438,Ross Fadely,Count âem Up: Traffic estimation for PiinPoint.,"Astronomy, New York University, Postdoc",Insight Data Science,Artificial Intelligence Lead
+439,Sahba Yahya,Le'ggo: Find events and venues in Manhattan,"Astrophysics, University of the Western Cape, PhD",Morsum,Data Science Manager
+440,Sharareh Noorbaloochi,ValuesAi: Target the right voter.,"Electrical Engineering and Cognitive Neuroscience, Stanford University, PhD",Goldman Sachs,Decision Scientist
+441,Sina Kashuk,StayEstimate: Predicting patient length of stay in hospitals.,"Civil Engineering, NYU Center for Urban Science & Progress, Research Associate",DataKind,Data Scientist
+442,Stephanie Gline,Annoisy: Find a quiet spot in NYC.,"Cell and Developmental Biology, New York University, Postdoc",AbleTo,Data Scientist
+443,Taro Naoi,Humor Me: Comedy analytics and recommendation.,"Materials Science & Engineering, Cornell University, PhD",NBCUniversal,Senior Data Engineering Developer
+444,Theodore Siu,Pearings: Intelligent ingredient combinations for home cooks.,"Physics, Rutgers University, PhD",Playdots,Jr. Data Scientist
+445,Matthew Oberhardt  ,memoryPower: Tracking Parkinsonâs wellness using a mobile app memory game.,"Computational Biology, Tel Aviv University / University of Maryland, Postdoc",New York Presbyterian,"Program Director, Research Science"
+446,Clara Higuera,chooseU: Pick the best university for you,"Computer Science, Complutense University of Madrid, PhD
+",BBC,Data Scientist
+447,David Pappano,Predicting micro-credit limits: Harnessing social information to create a new form of lending,"Ecology and Evolutionary Biology, Princeton University, Postdoc",McKinsey & Co.,Data Scientist
+448,Stuart Jackson,DarkNet: Tracking the underground drug trade,"Neural Science, New York University, PhD",IBM,Data Scientist
+449,Julie Tsitron,FriendOrMate? Where does your customer live?,"Computational Biology & Molecular Biophysics, Rutgers University, PhD",NYC Parks and Recreation,Data Scientist
+450,Andrew DeGroot,"FRIDAY: Predicting Saturday's Games, Today","Astrophysics, University of California, Riverside, PhD",The Goodyear Tire & Rubber Company,Data Scientist
+451,Ahmad Haider,SafeDining: Finding safe dining places in your neighborhood,"Mechanical/Bio Engineering, Georgia Institute of Technology, PhD",Cotiviti,Data Scientist
+452,Kateryna Lapina,NYCeats: choose your dining crowd in New York City,"Atmospheric Science, University of Colorado Boulder, Postdoc",Pearson,Senior Data Scientist
+453,Jiayi Xie,SafeParking: Find a safe place to park,"Geophysics, University of Colorado Boulder, PhD",Rubicon Project,Data Scientist
+454,Nevena Francetic,Keep Users: Helping a young startup grow,"Discrete Mathematics, Monash University, Postdoc",Shopify,Data Scientist
+455,Scott Wylie,Multi-touch attribution with Interstate Analytics: Giving credit where it's due,"Biophysics, Brown University, Postdoc",USAA,Data Scientist
+456,Greg Starek,Bot Or Not: Detecting Fraud on Social Media,"Neuroscience, University of Wisconsin-Madison, Postdoc",Ezoic,Senior Data Engineer
+457,Elliott Merriam,Adding variety to a menu: How (and why) to make a model less accurate on purpose,"Neuroscience, University of Wisconsin, PhD",Facebook,Data Scientist
+458,Lindsay Vass,Thesauropod.us: A thesaurus for podcasts,"Neuroscience, University of California Davis, Postdoc",Facebook,Data Scientist
+459,Mary Thomas,Panderer's ToolBox: Tailored messaging powered by data,"Cognitive Neuroscience, Integrated Brain Imaging Center, Postdoc",Facebook,"Data Scientist, Analytics"
+460,Huaixiu Zheng,CheckMyResume: make your resume stand out,"Physics, Yale University, Postdoc",Uber,Machine Learning Platform Data Scientist
+461,Prasanth Meiyappan,PacePlannr: Personalized Pacing Strategy for Recreational Marathoners,"Atmospheric Science, University of Illinois at Urbana-Champaign, PhD",Amazon,Research Scientist
+462,Christine Boylan,storyStackr: fight writerâs block and find your readershipâs favorite topics,"Cognitive Neuroscience, University of Pennsylvania, PhD",The Goodyear Tire & Rubber Company,Data Scientist
+463,Thompson Nguyen,"date|nite: find the right restaurant, for the perfect moment","Engineering, UC San Diego, Postdoc",Caesars Entertainment Corporation,"Data Scientist, Advanced Analytics"
+464,Sandra Blevins,Retention prediction with new Branch8 seller profiles (consulting),"Physics, The Catholic University of America, PhD",SSAI,Scientific Programmer/Analyst
+465,Shawn Roberts,FactCheckIt!: Because People are Parrots,"Astrophysics, University of Massachussetts - Amherst, PhD",Emprata,Data Scientist
+466,Tom Baldwin,Snotelier: Automated avalanche danger summaries,"Physics, University of Oregon, PhD",Cascade Data Labs,Data Scientist
+467,Jose Hernandez,One Signal Consulting Project : OneSignal audience segmentation,"Statistics and Measurement, University of Washington, Postdoc",Community Center for Education Results,Data Scientist
+468,Denton DeLoss,mediSell,"Cognitive Psychology, University of California, Riverside, Postdoc","Akili Interactive Labs, Inc.",Data Scientist
+469,Christina Huang,CourseBoost: Predict and improve student enrollment in online courses ,"Policy Analysis, Pardee RAND Graduate School, Postdoc",Facebook,"Data Scientist, People Analytics"
+470,Bryan Kerster,Predicting User Spending for OneSignal: Estimating using value in mobile apps & determining feature importance for segmentation,"Cognitive and Information Science, UC Merced, PhD",Facebook,Business Analyst
+471,Ben Regner,Insights for All: Providing data-driven insights to non-specialists,"Engineering, UC San Diego, PhD",Insight Data Science,Program Director & Data Scientist
+472,Eric Carlson,DescribeYourBar: Search and explore bars using natural language ,"Physics, UC Santa Cruz, PhD",Grand Rounds,Sr. Data Scientist
+473,Heather Simpson,NameFixer: Fixing messy merchant names in financial transactions,"Linguistics, UC Santa Barbara, PhD",Intuit,Data Scientist
+474,Jess Roeder,Underground Cellar: Finding wine enthusiasts among wine hobbyists,"Neuroscience, UC Santa Barbara, PhD",Insight Data Science,Program Director & Data Scientist
+475,Melissa Runfeldt,iSee: Deep Learning algorithm for virtual mirror eyeglass removal ,"Computational Neuroscience, UC San Francisco, PhD",SalesforceIQ,Data Scientist
+476,Michel Trottier-McDonald,FontFinder: Search engine for fonts by similarity,"Particle Physics, Simon Fraser University, PhD",Opendoor,Data Scientist
+477,Rick Wolf,BackerKit: Identifying indicators of user conversion,"Neuroscience, University of Wisconsin-Madison, PhD",Insight Data Science,Program Director & Data Scientist
+478,Ryan Phillips,Punchometer: Improving classification of complex motions using accelerometer data,"Cognitive Neuroscience, UC Davis, PhD",Remind,Data Scientist
+479,Alex Mendez,Truebill: Subscribe Better,"Astrophysics, Johns Hopkins University, Postdoc",HP,Data Scientist
+480,Attila Dobi,Tall Idea Labs: Understand and respond intelligently to consumer questions on e-commerce websites,"Astrophysics, Lawrence Berkeley National Laboratory, Postdoc",Zenysis,Data Scientist
+481,Aysen Tatarinov,Find That Video: Search music videos by description of scenes in videos,"Particle Physics, Texas A&M University, PhD",The Honest Company,Data Scientist
+482,Brian Addison,Unleash Your Inner Rockstar: User retention and churn at a mobile app startup,"Human Evolutionary Biology, Harvard University, PhD",Remind,Data Scientist
+483,Diane Ivy,Find My Ride: Helping bike share users find a bike when they need it,"Atmospheric Science, MIT, Postdoc",Grand Rounds,Data Scientist
+484,Dylan Storey,/u/Who: finding redditors who think alike,"Microbial Bioinformatics, UC Davis, Postdoc",State Farm,Sr. Data Scientist
+485,Emma Ideal,"#WhatTheHash: Find relevant, trending hashtags to maximize exposure of your tweet!","Physics, Yale University, PhD",Facebook,"Quantitative Scientist, People Analytics"
+486,Jamie Tolan,Parking Predictor: Find available parking spots in San Francisco,"Physics, Stanford University, Postdoc",Remote Sensing Scientist,Ceres Imaging
+487,Jianbo Xiao,Automatic Email Sorting: Identifying crucial emails with natural language processing at 93% recall rate,"Neuroscience, University of Wisconsin-Madison, PhD",Chegg,Data Scientist
+488,Katie Heineman,Weeding Leads: Prioritizing sales calls for ezhome gardening,"Ecology, University of Illinois, PhD",San Diego Zoo,Database Research Coordinator
+489,Kevin Moore,SolSearcher: Solar market info from satellite imagery,"Physics, Claremont Colleges, Faculty",SalesforceIQ,Data Scientist
+490,Ladan Doroud,Lendeviance: Fraud Detection in Lending Club Data,"Computer Science, UC Davis, PhD",Ancestry,Genomics Data Scientist
+491,Matar Haller,DeepGram: Unsupervised speaker segmentation of recorded conversations,"Neuroscience, UC Berkeley, PhD",Winton Group,Data Scientist
+492,Mike Mastanduno,mCeption: Machine Learning on Machine Learning,"Radiology, Stanford University, Postdoc",Health Catalyst,Data Scientist
+493,Laleh Sadeghian,Making Universal Education a Reality: prioritize countries to increase offline access to Khan Academy courses ,"Astrophysics, University of Wisconsin-Madison, Postdoc",Facebook,Data Scientist
+494,Robert Wilson,"Businesses on Venmo are not your âfriendsâ: Identify businesses posing as ""friends"" on Venmo","Psychology, UC Davis, PhD",Apple,Data Scientist
+495,Shruti Badhwar,Virtual Mirror: The future of retail,"Physics, University of Cambridge, PhD",commerce.AI,Co-founder
+496,Ying Han,"Fly Smart, Avoid Delays: Predicting flight delays leveraging weather forecasts","Biostatistics, University of Southern California, PhD",LinkedIn,Sr. Data Scientist
+497,Yun Ding,Ask Stack Overflow: Help refine your to-be-posted question on Stack Overflow,"Computational Biophysics, Louisiana State University, PhD",Twitter,Data Scientist
+498,Safraz Rampersaud,Prospecting Leads Intelligently: Leveraging machine learning for B2B sales and marketing lead generation,"Computer Science, Wayne State University, Research Assistant",Omniscience,Data Scientist
+499,Christopher Bonnett,ProductPredictr: Classifying retail products based on images and text,"Observational Cosmology, Institute for High Energy Physics, Postdoc",Alpha-I,Senior Machine Learning Researcher
+500,Ben Carls,L' Tron - CTA: A Friendly Bot with an Eye on Chicago's 'L',"Particle Physics, Fermi National Accelerator Laboratory, Postdoc",Exelon,Data Scientist
+501,Brendon OâLeary,FaultFindr: How might this laptop fail?,"Physics, Yale University, PhD",Seatgeek,Data Scientist
+502,Clark Lemke,MetaPizza: Find the best pizza in New York,"Physics and Neuroscience, University of Oxford, Postdoc",Gartner,Data Scientist
+503,Devon Brackbill,nspectr: Inspecting restaurant health violations in Boston,"Computational Social Science, University of Pennsylvania, PhD",Cooper Health,Data Scientist
+504,DoÄa KerestecioÄlu,setlistÃ¶r: Know the songs before you go,"Sociology, University of Pennsylvania, PhD",NBCUniversal,"Senior Manager, Management Science & Integration"
+505,Emily Halket,WiseWidgets: Matching readers to relevant financial tools,"Cognitive Psychology, University of California - Davis, PhD",Insight Data Science,Program Director & Data Scientist
+506,Erik SjÃ¶land,commentizr: Optimize borrower comments to make Zidishaâs lenders lend again,"Trexquant Investment, Trading Strategist",Janssen Pharmaceutical,Data Scientist
+507,Ethan Peck,Legislatr: Will a bill pass and who paid for it?,"Atmospheric and Oceanic Sciences, Columbia University, Lecturer",Tamr,Field Engineer
+508,Guilherme de Oliveira,Public Comments tl;dr: Helping federal agencies summarize public comments,"Applied Mathematics, Rensselaer Polytechnic Institute, PhD",Dataiku,Data Scientist
+509,Gwendolyn Gillingham,Toxic Docs Relationship Miner: Extracting structure from toxic text,"Linguistics, University of California - San Diego, PhD",Nielsen,Data Scientist
+510,Ivan Teo,ClassCorrect: Fixing classification errors,"Physics, University of Illinois at Urbana-Champaign, PhD",Capital One,Senior Data Scientist
+511,Joshua Friedman,"Meet me where? Plan less, meet there.","Biophysics, NYU Langone Medical Center, Postdoc",Nielsen,Lead Data Scientist
+512,KaiPin Liao,CovirTu: A better way to insure farmers against drought,"FMC Technologies, Research Scientist - Data Analytics",McKinsey & Co.,Data Scientist
+513,Lashkar Kashif,Philanthropy Filter: Classifying news articles and extracting organization names,"CERN, Assistant Scientist - High-Energy Physics",Gartner,Data Scientist
+514,Rachel Worth,HigherMe Applicant Rank: Finding the best interview candidates,"Astrophysics, Pennsylvania State University, PhD",Nielsen,Data Scientist
+515,Sara Steele,In Lyrical Terms: How popular are songs about [term]?,"Computational Neuroscience, New York University, PhD",Fareportal,Data Scientist
+516,Sashi Marella,AutoProCure: Easing the pain in tagging contract-bid requests,"Mathematical Neuroscience, New Jersey Institute of Technology, Postdoc",Viacom,Senior Data Scientist
+517,Thomas Coleman,TicketForecast: Helping baseball fans know when to buy tickets to the game,"Mathematics, University of Missouri, PhD",Macy's,Data Scientist
+518,Varun Rajan,The Opinionator: How will your opinion fare?,"Mechanical Engineering, Ãcole polytechnique fÃ©dÃ©rale de Lausanne, Postdoc",Dia&Co,Data Scientist
+519,Liheng Guo,RestaurantRev: Predicting new restaurant revenue by location,"Biomedical Engineering, Johns Hopkins University, PhD",Intuitive Surgical, Data Research Scientist
+520,Parama Mukherjee,AutHER: Who gets read more in hgher education?,"Atmospheric Physics, Stony Brook University, PhD ",Nielsen,Senior Data Scientist
+521,Tim Leonard,Song Proffr: A recomendation engine for the best place to find new music on the web,"Psychology/Neuroscience, York University, PhD",Viacom,Senior Data Scientist
+522,Matthew Dornfeld,Busy Cab: An app to help yellow cab drivers pick up passengers,"Physics, Rockefeller University, PhD",Capital One,Machine Learning/Principal Associate
+523,Anthony Zeng,NYC Real Estate: Buy or Wait?,"Industrial Engineering and Management Sciences, Northwestern University, PhD",Guggenhiem Partners,Research Fellow
+524,Noah Ribeck,Where They Ain't: Batted-Ball Luck in Major League Baseball,"Evolution/Population Genetics, Michigan State University, Postdoc",Uber,Data Scientist
+525,Kyle Willett,AboutFace: Identifying and tracking faces in YouTube videos,"Astrophysics.University of Minnesota, Postdoc",Amazon,Research Scientist
+526,Melanie Day,Nerdventures!: Nearby Events for Introverted People (in Seattle),"Physics, University of Wisconsin - Madison, Postdoc",Otto/Uber,Software Engineer
+527,Joshua Dempster,Automating Recommendation: Replacing a hand-built decision tree with a robust machine learner,"Physics, Northwestern University, PhD",The Broad Institute,Data Scientist
+528,Dylan Morgan,polibot: Can you distinguish between our future President and a Bot?,"Astronomy, Boston University, PhD","Calabrio, Inc.",Machine Learning Engineer
+529,Jimmy,TapPy: Predicting New Republic Brewery revenue to anticipate staffing needs,"Physics, Texas A&M University, PhD",3M,Data Scientist
+530,Jean-Francois Blanchette-Guertin,Staff-Me-Right: Optimizing Staffing at San Diego 911 Call Center,"Geophysics, French Space Agency, Postdoc",Vroom,Lead Data Scientist
+531,Dan Carmody,Concertrip: A road trip concert finder,"Physics, University of Wisconsin, PhD",Joany,Data Scientist
+532,Ikenna Ivenso,theDataMuncher: Interactive Data Analytics Platform,"Mechanical Engineering, Texas Tech University, PhD",Intel Corporation,Design Automation Engineer
+533,Amelia Taylor,H2OhNo!: Improving meter tampering predictions. ,"Mathematics, Oregon State University, Postdoc","Zymergen, Inc",Data Scientist II
+534,Lois Smith,ActiveMe: Combine fitness tracker data and weather for exercise optimization,"Space Science , University of Michigan, PhD",Microsoft,Data Scientist
+535,Natalie De Shetler,GoodNews: Defining features affecting audience engagement with public radio news reporting,"Cognitive Neuroscience, University of California, Los Angeles, PhD",Intuit,Data Scientist
+536,Peter Twieg,Coming To Terms: Recommending optimal loan terms for crowdfunded projects,"Economics, George Mason University, PhD",Intuit,Data Scientist
+537,Swetha Subramanian,ConsciousChef: Make the best of your CSA box,"Medical Physics, University of Wisconsin-Madison, Postdoc",Lululemon,Data Scientist
+538,Laine Noble,Venmo No-Nos: Identifying fraudulent users on Venmo,"Mathematics, Ohio State University, PhD",Macy's,Data Scientist
+539,Marianne Hoogeveen,Jobmash: Job searching without the pain,"Mathematics, Kingâs College London, PhD",Arena,Data Scientist
+540,Nishan Mann,SafeWalk: Find your safest route for any time of day,"Physics, Queenâs University, PhD",automotiveMastermind,Data Scientist
+541,Gautam Shine,ToxicDocs: Unearthing history from document dumps,"Electrical Engineering, Stanford University, PhD",Bloomberg,Research Scientist & Software Engineer
+542,Alex Abate,Market Insight: Visualise the potential of NYC restaurant markets,"Astrophysics, University of Arizona, Assistant Research Scientist",Dia&Co,Data Scientist
+543,Daping Du,PolarizedText: A tool for word embedding and anonymization,"Physics, Syracuse University, Postdoc",Globality,Software Engineer - Natural Language Processing
+544,Rockson Chang,Etsy Art Shark: Estimating the market value of paintings,"Ultracold Atoms, Institut d'Optique Graduate School, Postdoc",Insight Data Science,Program Director & Data Scientist
+545,Jolene Mork,Get the loan down: Assessing default risk for Zidisha's microfinance borrowers,"Physical Chemistry, Massachusetts Institute of Technology, PhD",Macy's,Data Scientist
+546,Hugo Liberal Fernandes,A.I.tendance: Attendance forecasting for art house movie screenings,"Computational Neuroscience, Rehabilitation Institute of Chicago/Northwestern University, Postdoc",Rockets of Awesome,Data Scientist
+547,Keld Lundgaard,Clever Forecasting: Predicting back-to-school user growth for Clever,"Physics, Stanford University, Postdoc",Salesforce,Data Scientist
+548,Michael Lock,Tweet Off: Classify tweets and track hashtags over time,"Differential Geometry, Mathematical Sciences Research Institute, Postdoc",Strat11,Research Fellow
+549,Aline Pichon,Next Buy: Recommend your customer's next purchase,"Neuroscience, University of Geneva, Research Consultant",Vanguard,Lead Analyst
+550,Adeyemi Arogunmati,LITALI: Legal Talk Listener: Find the right legal help,"BP America, Geophysicist",Viacom,Senior Data Scientist
+551,Matthew Moocarme,Jamify: Learn to play your new favorite songs,"Physics, CUNY Graduate Center, PhD",Viacom,Senior Data Scientist
+552,Tal Kachman,Bibli: Judge (and classify) a book by its cover,"Physics, Massachusetts Institute of Technology, PhD",IBM,Data Scientist
+553,Bahram Marami,GrowthPoint: Find the best location to start a restaurant or retail business,"Radiology-Medical Image Processing, Harvard Medical School, Postdoc",Precise MD,Biomedical Software Developer
+554,Joel Piper,IdentifyABill: Classify New York state legislation to identify bills by subject area,"US Citizenship and Immigration Services, Branch Chief - Data Science and Screening Analytics",Murmuration,Data Scientist
+555,Abdul Tariq,EngageM: Causal explanations for user engagement on social news websites,"Quantitative Policy Analysis, RAND Graduate School, PhD",New York Presbyterian,"Program Director, Research Science"
+556,Joomi Kim,PartyPoll: A tool for campaign strategists,"Biological Oceanography, Rutgers University, PhD",Chatdesk,Data Scientist
+557,Zuzanna Klyszejko,VanGo: Autocurating your art experience,"Cognitive Neuroscience, New York University, PhD",Wayfair,Data Scientist
+558,Jason Fuller,"NPO Grow: Better business decisions, faster for non-profits","Neuroscience, New York University, Postdoc",Statespace,Co-Founder
+559,Benjamin Batorsky,whetherChannel: The coverage you want. The subjects you care about.,"Department of Innovation and Technology, City of Boston, Data Scientist",ThriveHive,Data Scientist
+560,Michael Harmon,CrimeTime: Using historical data to predict NYC crime rates,"Computational Science, Engineering and Mathematics, University of Texas at Austin, PhD",Broker Genius,Data Scientist
+561,Carlos Arguello,BidPredict: Predicting the price of a defense contract,"Ropes & Gray LLP, Technical Advisor",BARDA,Quantitative Analyst
+562,David Karapetyan,FeatureTeacher: Raising the bar on education.,"Rudin Management, Head Data Scientist",BigR.io,Machine Learning Data Scientist
+563,Frank Bentrem,Collide-O-Scope: A window into real-time traffic hazards,"Binary Services, Quantitative Analyst",Applied Research in Acoustics,R&D Scientist
+564,Stephanie Debats,Homewords,"Civil & Environmental Engineering, Princeton University, PhD",Descartes Labs,Research Scientist
+565,Tim Lew,TopicHat,"Cognitive Psychology, University of California, San Diego, PhD",Quora,Data Scientist
+566,Andrea Massari,The Antenna Landscape,"Physics, Stony Brook University, PhD",UnifyID,Machine Learning Engineer
+567,April Swagman,The Perfect Fit,"Cognitive Psychology, University of Missouri, PhD",Insight Data Science,Program Director
+568,Cory Stephenson,Spotsor,"Physics, University of Illinois at Urbana Champaign, PhD",In-Q-Tel,Data Scientist
+569,Hari Sivakumar,Find My Grub,"Electrical and Computer Engineering, University of California Santa Barbara, PhD",Facebook,SMB Analyst
+570,Sam Wilson,Locate: Trending Upwards,"Oceanography, University of California, San Diego, PhD",GoPro,"Software Engineer, Advanced Signal Processing"
+571,Tim Ivancic,CornCalc,"Water Resource Engineering, SUNY College of Environmental Science and Forestry, PhD",The Hartford,Associate Data Scientist
+572,Toby Sachs-Quintana,Increasing video engagement,"Materials Science, Stanford University, PhD",Tesla,Data Scientist
+573,Ujwal Kharel,Know Thy Gardener,"Policy Analysis, Pardee RAND Graduate School, PhD",Activision,Data Scientist
+574,Diego Ramallo,Analyze This,"Biophysics, Stanford University, PhD",Albeado,Data Scientist
+575,Kurt Soto,tweetView,"Astronomy, ETH Zurich (Swiss Federal Institute of Technology), Postdoc","Sonos, Inc.",Voice Data Scientist
+576,Mahshid Najafi,Textmote,"Electrical and Computer Engineering, University of Maryland, College Park, PhD Candidate",Facebook,Data Scientist
+577,Maxwell Zheng,"""Gold plated baby""","Electrical Engineering, UC Berkeley, PhD",Facebook,SMB Analyst
+578,Peter Weir,DetecTrend,"Computational Neuroscience, Caltech, Postdoc",Yelp,Data Scientist
+579,Priya Venkat,Say What?,"Electrical and Computer Engineering, Texas A&M University, College Station, Texas, PhD",Chegg,Data Scientist
+580,Lulu Liu,SpeaKey,"Physics, University of Illinois at Urbana-Champaign, Postdoc",Tamr,Field Engineer
+581,Wenliang He,Predication for Non-payment Utilities Cutoff,"Education, University of California Irvine, PhD",Facebook,People Analyst
+582,Yao Li,Lift My Video,"Applied Physics, Stanford University, PhD",Facebook,Data Scientist
+583,Amy Shapiro,DressMe!,"Biological Anthropology, Arizona State University, PhD",Yelp,Data Scientist
+584,Christian Leipski,TargAd,"Astrophysics, Max-Planck Institute for Astronomy, Postdoc",Helpshift,Data Scientist
+585,Daisy Zheng,GOATCheck,"Environmental Engineering, Stanford University, PhD",eBay,Senior Data Scientist
+586,Eleisha Jackson,ArtPath,"Computational Biology, The University of Texas at Austin, PhD",Livongo,Data Scientist
+587,Emily Fay,Image-AI,"Geophysics, Stanford University, PhD",Opendoor,Data Scientist
+588,Grace Wu,InjuryCast,"Biomedical Engineering, Boston University, PhD",Intuit,Data Scientist
+589,James Verbus,Castle,"Experimental Particle Astrophysics, Brown University, PhD",LinkedIn,Data Scientist
+590,Jeffrey Silverman,WhereSIOUS,"Astrophysics, University of Texas at Austin, Postdoc",Samba TV,Data Scientist
+591,Jen Steele,Freight Rate,"Economics, University of Auckland, Assistant Professor",Facebook,Data Scientist
+592,Jennifer Zelenty,Smooth Ride,"Materials Science, University of Oxford, DPhil",Second Measure,Data Scientist
+593,Katie Schlesinger,CleanStreet,"Astrophysics, Australian National University, Postdoc",Capital One,Principal Data Scientist
+594,Kevin O'Sullivan,Non-trivial Pursuit,"Physics, Lawrence Berkeley National Laboratory, Postdoc",Grammarly,Data Scientist
+595,Nan Wang,MusiCon,"Statistical Genetics, University of Southern California, PhD",eBay Advertising,Analytics Manager
+596,Nick DiQuattro,Twitter Cannibal,"Cognitive Neuroscience, University of California, Davis, PhD",,
+597,Nicole Czakon,RedCarpet,"Astrophysics, Academia Sinica, Taiwan, Postdoc",eBay Advertising,Analytics Manager
+598,Rich Winslow,LiveBeat,"Mechanical Engineering, UC Berkeley, PhD",Sojern,Data Science Engineer
+599,Sean McCurdy,beaut.ai,"Bioinformatics, University of Toronto, PhD",Pinterest,"Product Analyst, Core Experience"
+600,Shu-Han Chao,Fleetr,"Physics, University of Illinois at Urbana-Champaign, PhD",eBay ,Analytics Manager
+601,Jana Grcevich,Dupe Snoop: Identify repeated questions on Quora,"Astrophysics, American Museum of Natural History, Postdoc",Schireson,Data Science Consultant
+602,Andrej Ficnar,Slack Police: You have the right to stay on topic,"Theoretical Physics, University of Oxford, Postdoc",Schireson,Data Science Consultant
+603,Yimei Fan,MatchMade: Practice with the best partners to ace your coding interview,"Applied Mathematics & Statistics, University of Maryland - College Park, PhD",Gartner,Business Associate
+604,Gardiner von Trapp,Save Our Sensor: Early detection of battery failure in remote temperature sensors,"Neuroscience, New York University, PhD",CA Technologies,Data Scientist
+605,Alex Saez,News Snap: Your auto-curated daily news briefing,"Neuroscience, Columbia University, Postdoc",AbleTo,Data Scientist
+606,Dan Vatterott,Sifting the Overflow: Highlight helpful parts of Stack Overflow answers,"Neuroscience, Columbia University, Postdoc",Showtime,Data Scientist
+607,Abishek Sainath Madduri,Hive Mind: Using social media data to predict if Hiveâs users will buy,"Computational Biology, Weill Cornell Graduate School, PhD",Precise MD,Data Scientist
+608,Deniz Ãstebay,Predicting worker churn: Will they stay or will they go?,"Electrical Engineering, McGill University, PhD",Playtika,Data Scientist
+609,Hesam Parsa,Anti-social capital: Flagging potential fraudsters in the Moneypool app,"Biomedical Engineering, Columbia University, Postdoc",Gartner,Business Associate
+610,Jeff Kahn,bigLittleTransport: A smart shuttle dispatcher,"Mechanical Engineering, Drexel University, PhD",Gartner,Business Associate
+611,Jeffrey Nguyen,NYC Air-Traffic Control: Strategic road restrictions to improve air quality,"Biophysics, Princeton University, Postdoc",Gartner,Business Associate
+612,Marlene Guraieb,Write right! Helping CrossLead identify successful business objectives,"Political Science, New York University, PhD",Oscar,Data Scientist
+613,Martin Polacek,Fake News Checker: To be fake or not to be?,"Physics, Stony Brook University, PhD",Vanguard,People Analytics Specialist
+614,Richard Knoche,DecoRater: Automatic assessment of image quality,"Physics, University of Maryland, PhD",Flatiron Health,Data Insights Engineer
+615,Melissa Ellamil,Bubble Popper: Breaking out of the news filter bubble,"Cognitive Neuroscience, Max Planck Institute for Human Cognitive and Brain Sciences, Postdoc",Harmony Institute,Data Scientist
+616,Elijah Goodfriend,Banking Class: Teaching a model to classify transactions,"Computational Research Division, Lawrence Berkeley National Laboratory, PhD",Nielsen,Lead Data Scientist
+617,Roberto Gobbetti,What Happened There? Matching Wikipedia traffic spikes with breaking news,"Theoretical Physics, Utrecht & Amsterdam Universities, Postdoc",eBay,Data Scientist
+618,Taka Tanaka,BayesBall: Leveraging historical data to predict performance and cost,"Astrophysics, Stony Brook University, Research Faculty",Schireson,Data Science Consultant
+619,Tess Jeffers,Money Talk$: Predicting campaign contributions using demographic data,"Quantitative and Computational Biology, Princeton University, PhD",Schireson,Data Science Consultant
+620,Wei Zhao,Skills Essence: Upgrade job recommendations,"Electrical Engineering, Polyera, Principal Scientist",KPMG,Data Scientist
+621,Robert Fieldhouse,ClientKeeper: Engagement and churn in B2B relationships,"Computational Biology, Icahn School of Medicine at Mount Sinai, Postdoc",Vanguard,Advanced Analytics Specialist
+622,Mohammad Ramezanali,Traffic Booster: Identifying the most engaging content,"Mathematical Physics/Biostatistics, Rutgers University, Postdoc",CubeSmart,Senior Data Scientist
+623,Alexandru Papiu,BestBnB: Find an AirBnB to match your lifestyle and wallet,"Mathematics, Washington University in St. Louis, PhD",Simulmedia,Data Scientist
+624,Tina Nikou,TrustMePost,"Engineering, Clemson University, PhD",Uber,Data Scientist
+625,Miriam Leon,MoneyMaid,"Computational Biology, University College London, PhD",Stitch Fix,Data Scientist
+626,Alex Pranko,Deeply Sentimental,"Particle Physics, University of Florida PhD",AlixPartners,Associate
+627,Aaron Kelly,DigiDeej,"Bioinformatics, Baylor College of Medicine, PhD",Samba TV,Data Scientist
+628,Andreas Mavrommatis,RoboCrop,"Geophysics, Stanford University, PhD",Intuit,Data Scientist
+629,Andrew Bock,faceRec,"Behavioral Neuroscience, University of Pennsylvania, Postdoc",Beyond Limits,Data Scientist
+630,Andrew Mattarella-Micke,Polyglot,"Cognitive Neuroscience, Stanford University, Postdoc",Intuit,Data Scientist
+631,Ben Mooneyham,WalkEasy,"Cognitive Neuroscience, University of California, Santa Barbara, PhD",Twitch,Data Scientist
+632,Brian Amadio,RoomCrawl,"Physics, University of California, Berkeley, PhD",App Annie,Senior Data Scientist
+633,Itay Rosenzweig,The Invasion of California,"Environmental Engineering, Stanford University, PhD",Samba TV,Data Scientist
+634,Jack Bradmiller-Feld,OpenJustice,"Particle Physics, UC Santa Barbara, PhD",Handshake,Data Scientist
+635,Jenn Wang,MusiPy,"Psychology, Columbia University, Postdoc",Cape Analytics,
+636,Jenny Lin,pigiback,"Economics, University of Michigan, PhD",Yelp,Data Scientist
+637,Jess Kerlin,Tinder for Grants,"Cognitive Neuroscience, UC Davis, Postdoc",App Annie,Senior Data Scientist
+638,John Clevenger,The Movie Model,"Cognitive Psychology and Neuroscience, University of Illinois at Urbana-Champaign, PhD",Netflix,Senior Data Scientist
+639,Jon Tang,Story Pitch Perfect,"Computational Biology, Lawrence Berkeley National Laboratory, Postdoc",Snapdocs,Data Scientist
+640,Joseph Lee,Blue Trinket,"Biomedical Engineering, Marquette University, PhD",Geico,Data Scientist
+641,Kelly Zhang,Opinionated,"Political Science, Stanford University, PhD",Social Capital,Data Scientist
+642,Kimberly Aller,BlinkCatcher,"Astronomy, University of Hawaii, Manoa, PhD",LendUp,Data Scientist
+643,Matthew Walker,FranklinFinder,"Physics, Rutgers University, Postdoc",LinkedIn,Software Engineer (Data Mining/Analysis & ML)
+644,Mehdi Lame'e,Bambi Finder,"Astrophysics, University of Minnesota, PhD",eBay,Senior Data Scientist
+645,Natalia Tchemodanov,fomoji,"Biomedical Engineering, UCLA, PhD",Twitch,Data Scientist
+646,Nicole Wong,Troll-dar,"Linguistics, University of Illinois at Urbana-Champaign, PhD",Tamr,Data Scientist
+647,Omoju Miller,Receipt.id,"Computer Science Education, UC Berkeley, PhD",Github,Senior Data Scientist
+648,Pablo Rosado,Peace-of-Mind Parking,"Mechanical Engineering, University of California, Berkeley, PhD",Amgen,Senior Engineer
+649,Qi Wen Li,Win the Bidding War,"Biochemistry and Molecular Biophysics, Caltech, PhD",IBM,Project Manager
+650,Sneha Ravi,EduCare,"Neurobiology, Duke University, PhD",Uber,Data Scientist
+651,Tee Ponsukcharoen,Best Skills To Learn,"Computational Mathematics and Engineering, Stanford University, PhD",Robinhood,Data Scientist
+652,Vahid Mardanlou,The GUILD,"Electrical Engineering, University of California Riverside, PhD",Acorns,Data Scientist
+653,Yewon Gim,D.textive,"Physics, University of Illinois Urbana Champaign, PhD",AT&T,Data Scientist
+654,Ying Cheng,iHeard.IT,"Biomedical Engineering, Johns Hopkins University, PhD",Twitch,Data Scientist
+655,Candice Yip,BetterScent,"Neuroscience, Harvard University, PhD",Thasos Group,Data Scientist
+656,Alicia Schep,RecommendR,"Genetics, Stanford University, PhD",Livongo,Data Scientist
+657,Alexander Law,Gumby Grades,"Experimental Particle Physics, UC Santa Cruz, PhD",Google,Data Scientist
+658,Nhung Bui,Travel Smart,"Politics, Princeton University, PhD",Google,Data Scientist
+659,Nuala McCullagh,MakeMyRun,"Computational Cosmology, Johns Hopkins University, PhD",Facebook,Data Scientist
+660,Steve Brown,Git Triage,"Materials, UC Santa Barbara, PhD",Intuit,Senior Data Scientist
+661,Brandon Liverence,CleanMachine,"Cognitive Psychology, Yale University, PhD",Second Measure,Data Scientist
+662,Brian Perea,"TraceAI, UC Berkeley, PhD","Chemical Engineering, ",Headspin,Lead Data Scientist
+663,Cynthia Wu,InstaBoost,"Chemical Engineering, Stanford University, PhD",Houzz,Quantitative Analyst
+664,David Grayson,LeadScore,"Neuroscience, UC Davis, PhD",Intuit,Data Scientist
+665,Dustin Stolp,Anticiplay,"Experimental Particle Physics, UC Davis, PhD",Square,Data Scientist
+666,Erin Edkins Ludert,Joyless,"Physics, University of Hawaii, PhD",IFTTT,Data Scientist
+667,Fatima Rubio da Costa,Adaptive 3D Printer Control,"Solar Physics, Stanford University, PhD",Proteus,Data Scientist
+668,Gul Seda Unal,!senseViolence,"Electrical and Electronics Engineering, Koc University, PhD",Udacity,Data Science Content Developer
+669,Henoch Wong,Is BART late today?,"Experimental Particle Physics, UC Berkeley, PhD",C3 IoT,Data Scientist
+670,Jade Zhang,JoBreaker,"Environmental Science, UC Berkeley, PhD",LiveRamp,Data Scientist
+671,Jenny Yu,Patent Evaluator,"Neurobiology, Harvard University, PhD",Yelp,Data Scientist
+672,Maria Alejandra Barrios,Happy Miso,"Plasma Physics, University of Rochester, PhD",In-Q-Tel,Data Scientist
+673,Maryam Tabtabaeian,BikeTimizer,"Cognitive Science, UC Merced, PhD",Cisco,Software Engineer
+674,Matt Bowers,OddsCheck,"Atmospheric Science, Purdue University, PhD",Uber,Data Scientist
+675,Michael Dougal,Hatched News,"Political Science, UC Berkeley, PhD",Netflix,Sr. Research Scientist
+676,Nick Lee,Wedding Insights with Joy,"Astronomy, University of Hawaii, PhD",Second Measure,Data Scientist
+677,Nick Hoh,CrossWorth,"Chemical Engineering, California Institute of Technology, PhD",Intuit,Sr. Data Scientist
+678,Phil Gaudreau,Ped Motion,"Mathematical & Statistical Sciences, University of Alberta, PhD",Bosch,Data Scientist
+679,Sormeh Kashef,GiTaG,"Civil/Environmental Engineering, McGill University, PhD",Accenture,Data Scientist
+680,Stefan Muennich,Opinion Detector,"Structural Biology, Stanford University, Postdoc",Tenor,Data Scientist
+681,Summer Wang,Churn at Gobble,"Education Policy, UC Irvine, PhD",Netflix,Senior Data Scientist
+682,Thomas Elliott,Highlightr,"Sociology, UC Irvine, PhD",Github,Data Scientist
+683,Toban Wiebe,Find Your Commmunity,"Economics, University of Pennsylvania, PhD",Prosper,Data Scientist
+684,Xiaonan Duan,Shoes popularity predictor,"Materials Science & Engineering, Cornell University, PhD",TuneIn,Data Scientist
+685,Joy Jiao,Code Coach: ML-powered programming practice,"Systems Biology, Harvard University, PhD",Quora,Software Engineer
+686,Fei Wang,Petition Predictor: How many will sign?,"Molecular Biology, Rutgers University, PhD",Gartner,Business Associate
+687,Graham Edge,TeacherReel: Analyzing classroom videos to find teachers who talk too much (or too little),"Physics, University of Toronto, PhD",JW Player,Data Scientist
+688,Kyungeun Lim,Wave Machine: Determining sea conditions for cargo ships,"Experimental Particle Physics, Yale University, Postdoc",NBCUniversal,Advanced Data Scientist
+689,Changyao Chen,Wise Wheels: Where will Citibike take you?,"Mechanical Engineering, Argonne National Laboratory, Postdoc",Neo Ivy Capital Management,Quantitative Strategist
+690,Jamison Galloway,predictTix: Helping theatergoers anticipate Broadway bargains,"Theoretical High Energy Physics, New York University Postdoc",Columbia University,Associate Director of Business Intelligence and Analytics
+691,Janelle Szary,IntuiShop: Intuitive shopping for styles,"Cognitive and Information Sciences, Indiana University, Postdoc",Pymetrics,Data Scientist
+692,Matthew Yu,BrandID: Detecting and identifying YouTube video sponsors,"Electrical Engineering, Stanford University, ABD",JW Player,Data Scientist
+693,Michael Moran,Switchyard: Predicting ridership changes to inform staffing needs,"Nuclear Astrophysics, University of Notre Dame, PhD",Gartner,Business Associate
+694,Nicholas Litombe,SnippetIQ: Automate promo text for social media,"Department of Energy, Science and Technology Policy Fellow",Unacast,Data Scientist
+695,Pavel Khromov,SmartBorrow: Refinance today or tomorrow?,"Physics, Rutgers University, PhD",Teza Technologies,Data Scientist
+696,Stephanie Sherman,Mind the Gap: Identifying factors that contribute to the gender pay gap,"Cognitive Neuroscience, Boston College, Postdoc",Murmuration,Data Scientist
+697,Matthew Koh,Author Check: Analyze documents for stylistic similarity,"Systems Neuroscience, Cold Spring Harbor Laboratory, PhD",Bloomberg,Software Engineer
+698,Angela Vierling-Claassen,TrollTrackr: Combating Twitter trolls with NLP,"Mathematics, Boston University, PhD",Tamr,Sales Engineer
+699,Asha Sharma,Outreach BooSTIr.: Improving sex worker health outreach with machine learning,"Cornell University, PhD",McKinsey,Senior Data Scientist 
